@@ -780,3 +780,72 @@ Fill in the blanks with the correct form of **'do'** or **'have'**.
 - **'Have'** is used for plural subjects (I, We, You, They).  
    - Example: **I have** books.  
    - Example: **They have** many friends.
+
+  ---
+# Chapter: 8
+
+**3. Grammar**
+Tenses – Present, Past, Future. Tenses show us time. Read the table below to see the use of verbs.
+
+Here is the comparison of present, past, and future tenses in table form, along with the introduction and explanations:
+
+**1. Explanation of Tenses**
+
+
+| **Present**               | **Past**                  | **Future**                  |
+|---------------------------|---------------------------|-----------------------------|
+| I am a teacher.           | I was a teacher.          | I will be a teacher.        |
+| He is a teacher.          | He was a teacher.         | He will be a teacher.       |
+| They are teachers.        | They were teachers.       | They will be teachers.      |
+| He teaches English.       | He taught English.        | He will teach English.      |
+| They teach English.       | They taught English.      | They will teach English.    |
+
+
+
+**2. Explanation of Tenses**
+
+| **Tense**           | **Explanation**                                             |
+|---------------------|-------------------------------------------------------------|
+| **Present Tense**   | We use the first form of the verb (e.g., go, cook, show).   |
+| **Past Tense**      | We use the second form of the verb (e.g., went, cooked, showed). |
+| **Future Tense**    | We use "will" or "shall" with the first form of the verb (e.g., will go). |
+
+
+### Fill in the blanks with verbs (`is / are / am / was / were`):
+
+1. **Is he your friend now?**  
+   **Reason:** The word "now" indicates present tense, and "is" is used for singular subjects in the present tense.
+
+2. **Yesterday, were they playing cricket in the park?**  
+   **Reason:** The word "yesterday" indicates past tense, and "were" is used for plural subjects in the past continuous tense.
+
+3. **Are they working very hard to finish the work today?**  
+   **Reason:** The word "today" indicates present tense, and "are" is used for plural subjects in the present continuous tense.
+
+4. **Was I going to the market when he called me?**  
+   **Reason:** The phrase "when he called me" indicates a past event, requiring "was" for the first-person singular in the past continuous tense.
+
+5. **She is afraid of the dark.**  
+   **Reason:** This is a general statement in the present tense, and "is" is used with singular subjects in the present tense.
+
+6. **Was he calling me last night?**  
+   **Reason:** The phrase "last night" indicates past tense, and "was" is used for singular subjects in the past continuous tense.
+
+---
+
+### Read the sentences and mark which tense they belong to:
+
+1. **The students listened to the lesson with interest. → Past**  
+   **Reason:** The verb "listened" is in the past tense, indicating a completed action.
+
+2. **My father will cook food today. → Future**  
+   **Reason:** The auxiliary verb "will" indicates future tense, showing an action that is yet to happen.
+
+3. **Children play in the park. → Present**  
+   **Reason:** The verb "play" is in the present tense, indicating a habitual action or general truth.
+
+4. **I always speak truth. → Present**  
+   **Reason:** The word "always" suggests a habitual action, and "speak" is in the present tense.
+
+5. **We went to our village last Sunday. → Past**  
+   **Reason:** The verb "went" is in the past tense, and the phrase "last Sunday" confirms the action happened in the past.
