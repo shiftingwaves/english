@@ -244,3 +244,31 @@
 | Live as a family                  | Aik khandan ki tarah rehna (Aik dosray ke saath rehna)  |
 | Proud of our culture              | Apni saqafat par fakhr (Apne rang aur riwayat par garv) |
 
+---
+
+### **chapter 10: English Phrase**
+
+| **English Phrase**                 | **Roman Urdu Meaning**                                     |
+|------------------------------------|----------------------------------------------------------|
+| Family picnic                      | Khandani picnic (Ghar walon ke saath ka mazedaar din)     |
+| My family                          | Mera khandan (Mere ghar ke log)                           |
+| Went out                           | Bahar gaye (Ghar se bahar chale gaye)                     |
+| Lugged our stuff                   | Apna saaman uthaya (Apni cheezein uthana)                 |
+| To the park                        | Park mein (Jahan hum khelte hain)                         |
+| Spread out our blanket             | Apni chadar bichhai (Farsh par chadar rakhna)             |
+| It got rainy                       | Baarish ho gayi (Paani girna shuru ho gaya)               |
+| Got dark                           | Andhera ho gaya (Roshni kam ho gayi)                      |
+| Watching our napkins               | Apne tissues dekh rahe thay (Kaghazi napkins dekhna)      |
+| Plates blow away                   | Plates ud gayi (Hawa mein plates udaana)                  |
+| In the breeze                      | Hawa ke jhonke mein (Hawa chal rahi thi)                  |
+| Got bit by mosquitoes              | Machhar ne kaata (Machhar ne kaat liya)                   |
+| Attacked by bees                   | Makhiyaan ne hamla kiya (Makhiyaan ne chhuta diya)        |
+| Couldn't hold longer               | Aur zyada na ruk paaye (Der tak rukna mushkil ho gaya)    |
+| Ran screaming madly                | Zor se chillate hue bhaag gaye (Chillate hue bhaagna)     |
+| Left our stuff                     | Apna saaman chhoda (Apni cheezein chhodd di)             |
+| To the insects                     | Keeron ko de diya (Keeron ke liye chhoda)                 |
+| Rain ruined our day                | Baarish ne din khatam kar diya (Baarish ne maza khatam kar diya)|
+| Go to the movies                   | Movie dekhne jana (Cinema mein film dekhna)               |
+| Go to the mall                     | Mall jana (Shopping ke liye mall jaana)                   |
+| Was no picnic                      | Maza nahi aaya (Koi achi baat nahi hui)                   |
+
