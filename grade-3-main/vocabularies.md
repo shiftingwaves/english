@@ -507,4 +507,64 @@
 | Proud                 | Fakhar (Khushi aur izzat ka ehsaas)                         |
 | Culture               | Saqafat (Rehne, khane aur pehne ka tareeqa)                 |
 
+---
 
+### **Chapter 10: The Picnic at Rawal Lake**
+
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                             |
+|-----------------------|--------------------------------------------------------            |
+| Family                | Khandan (Ghar walay log)                                           |
+| Picnic                | Picnic (Bahar maze ka din guzarna)                                 |
+| My                    | Mera (Jo cheez meri ho)                                            |
+| Went                  | Gaya (Kisi jagah par gaya)                                         |
+| Out                   | Bahar (Ghar se bahar jana)                                         |
+| Lugged                | Ghaseetna (Bari cheezain le jaana)                                 |
+| All                   | Sab (Puri cheezain ya log)                                         |
+| Stuff                 | Samaan (Cheezain jo hum le kar jate hain)                          |
+| To                    | Ko/Tak (Kisi jagah ya cheez ke liye)                               |
+| Park                  | Bagh (Jahan log maze ke liye jaate hain)                           |
+| Soon                  | Jaldi (Foran ya kam waqt mein)                                     |
+| Spread                | Phelana (Cheezain barabar karna ya rakhna)                         |
+| Blanket               | Chadar (Kapra jo sardi mein use hota hai)                          |
+| Promptly              | Foran (Jaldi se kaam karna)                                        |
+| Got                   | Ho gaya (Kuch hasil ya shuru ho gaya)                              |
+| Rainy                 | Barsaat (Jab barish ho rahi ho)                                    |
+| Dark                  | Andhera (Roshni na hone ki halat)                                  |
+| While                 | Jab tak (Jab ek kaam ho raha ho)                                   |
+| Watching              | Dekhna (Kisi cheez ko gaur se dekhna)                              |
+| Napkins               | Kapda (Cheezain saaf karne ke liye kapra)                          |
+| Plates                | Thali (Khaana rakhne ke liye bartan)                               |
+| Blow                  | Udna (Hawa ke sath cheezain urti hain)                             |
+| Away                  | Door (Kisi jagah se door)                                          |
+| Breeze                | Thandi Hawa (Halka sa hawa chalna)                                 |
+| We                    | Hum (Jo log mil kar kuch karein)                                   |
+| All                   | Sab (Puri cheezain ya log)                                         |
+| Got                   | Ho gaya (Kuch hasil ya shuru ho gaya)                              |
+| Bit                   | Katna (Chhoti cheez ka lagna, jaise machar kaatna)                |
+| Mosquitoes            | Machhar (Chhoti makhi jo kaat ti hai)                              |
+| Attacked              | Hamla (Kisi cheez par jhapta maarna)                               |
+| Bees                  | Shehad ki Makhi (Jo phoolon se shehad banati hai)                  |
+| Couldn’t              | Nahi kar saka (Koi kaam na karna)                                  |
+| Hold                  | Pakarna (Kisi cheez ko hath mein lena)                             |
+| Any                   | Koi bhi (Kisi bhi cheez ya shakhs)                                 |
+| Longer                | Zyada dair (Lambi muddat tak)                                      |
+| Ran                   | Bhaag gaye (Tezi se bhaagna)                                       |
+| Screaming             | Cheekhna (Zor se awaaz nikalna)                                    |
+| Madly                 | Pagalpan (Ajeeb tarike se kaam karna)                              |
+| Away                  | Door (Kisi jagah se door)                                          |
+| Left                  | Chhod diya (Kisi jagah ya cheez ko chor dena)                      |
+| Insects               | Keeray (Chhoti makhiyan aur keede)                                 |
+| Rain                  | Barish (Pani jo aasman se girta hai)                               |
+| Ruined                | Barbaad (Jo cheez khatam ya kharab ho jaye)                        |
+| Day                   | Din (24 ghanton ka waqt)                                           |
+| Next                  | Agla (Jo baad ka ho)                                               |
+| Time                  | Waqt (Ghadi ka waqt ya samay)                                      |
+| Go                    | Jana (Kisi jagah par chalna ya pohanchna)                          |
+| Movies                | Filmain (Tasaveeron wali kahaniyan dekhna)                         |
+| Maybe                 | Shayad (Ho sakta hai)                                              |
+| Just                  | Sirf (Zyada nahi, thoda)                                           |
+| Mall                  | Bazar (Shopping karne wali jagah)                                  |
+| Last                  | Aakhri (Jo cheez aakhri waqt mein hoti hai)                       |
+| Really                | Sach mein (Haqeeqat mein)                                          |
+| No                    | Nahi (Inkaar ka lafz)                                              |
+| At all                | Bilkul bhi (Bilkul nahi)                                           |
