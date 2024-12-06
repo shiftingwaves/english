@@ -169,3 +169,28 @@
 
 They both run to join their class for the morning assembly.  
 (وہ دونوں اپنی کلاس میں صبح کی اسمبلی کے لیے بھاگتے ہیں۔)
+
+<hr style="height:3px; border:none; background-color:white;" />
+
+### **Chapter 10: The Picnic at Rawal Lake**  
+
+**Teacher:** Sit down children. How did you spend the three holidays?  
+(**Teacher:** Baith jao bachon. Tumne teen chhutiyaan kaise guzaari?)  
+
+**Majid:** I went to a picnic with my family.  
+(**Majid:** Mein apni family ke saath picnic par gaya tha.)  
+
+**Nasir:** We went to watch a movie.  
+(**Nasir:** Hum movie dekhne gaye the.)  
+
+**Teacher:** Where did you go, Majid?  
+(**Teacher:** Majid, tum kahaan gaye the?)  
+
+**Majid:** Ma'm, we went to Rawal Lake, Islamabad. The weather was pleasant there. We enjoyed ourselves a lot.  
+(**Majid:** Ma'am, hum Rawal Lake, Islamabad gaye the. Wahan ka mausam bohot accha tha. Hum ne bohot enjoy kiya.)  
+
+**Teacher:** What did you like there the most?  
+(**Teacher:** Wahan tumhe sab se zyada kya pasand aaya?)  
+
+**Majid:** I liked boating the most.  
+(**Majid:** Mujhe boating sab se zyada pasand aayi.)
