@@ -782,7 +782,7 @@ Fill in the blanks with the correct form of **'do'** or **'have'**.
    - Example: **They have** many friends.
 
   ---
-# Chapter: 8
+# Chapter: 9
 
 **3. Grammar**
 Tenses – Present, Past, Future. Tenses show us time. Read the table below to see the use of verbs.
