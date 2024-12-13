@@ -19,27 +19,6 @@
 **Students:** (many answers) charts, flowers, posters, map, poems, timetable, plants, class rules, etc.  
 (bohot saare jawab) charts, phool, posters, naqsha, nazmein, timetable, pauday, class ke rules, waghera.  
 
-<hr style="height:3px; border:none; background-color:white;" /> 
-
-### **Chapter 9: Celebrating Eid**  
-
-**Teacher:** Assalam-o-alaikum dear children!  
-(Assalam-o-alaikum pyaray bachon!)  
-
-**Students:** Wa-Alaikumussalam teacher!  
-(Wa-Alaikumussalam ustani ji!)  
-
-**Teacher:** How many children go to their grandparents to celebrate Eids?  
-(Kitnay bachay Eid mananay apnay dada dadi kay ghar jatay hain?)  
-
-**Students:** We all go and visit them.  
-(Hum sab unkay ghar jatay hain.)  
-
-**Teacher:** Do you get new dresses and gifts as well?  
-(Kya tumhain naye kapray aur tohfay bhi miltay hain?)  
-
-**Students:** Yes, from uncles and aunts!  
-(Haan, chacha aur phuppo se!)  
 
 
 
@@ -168,7 +147,30 @@
 (وہ گھنٹی بج گئی۔ چلیں صبح کی اسمبلی کے لیے۔)  
 
 They both run to join their class for the morning assembly.  
+
 (وہ دونوں اپنی کلاس میں صبح کی اسمبلی کے لیے بھاگتے ہیں۔)
+<hr style="height:3px; border:none; background-color:white;" /> 
+
+### **Chapter 9: Celebrating Eid**  
+
+**Teacher:** Assalam-o-alaikum dear children!  
+(Assalam-o-alaikum pyaray bachon!)  
+
+**Students:** Wa-Alaikumussalam teacher!  
+(Wa-Alaikumussalam ustani ji!)  
+
+**Teacher:** How many children go to their grandparents to celebrate Eids?  
+(Kitnay bachay Eid mananay apnay dada dadi kay ghar jatay hain?)  
+
+**Students:** We all go and visit them.  
+(Hum sab unkay ghar jatay hain.)  
+
+**Teacher:** Do you get new dresses and gifts as well?  
+(Kya tumhain naye kapray aur tohfay bhi miltay hain?)  
+
+**Students:** Yes, from uncles and aunts!  
+(Haan, chacha aur phuppo se!)  
+
 
 <hr style="height:3px; border:none; background-color:white;" />
 
@@ -194,3 +196,32 @@ They both run to join their class for the morning assembly.
 
 **Majid:** I liked boating the most.  
 (**Majid:** Mujhe boating sab se zyada pasand aayi.)
+
+---
+Here’s the dialogue converted into your specified format:
+
+---
+
+### **Chapter 11: A Day at School**  
+
+**Hammad:** Fahad, why didn't you come to school yesterday?  
+(Fahad, tum kal school kyun nahi aaye?)  
+
+**Fahad:** I was not well.  
+(Main theek nahi tha.)  
+
+**Hammad:** What happened?  
+(Kya hua?)  
+
+**Fahad:** I had a toothache.  
+(Mujhe daant mein dard tha.)  
+
+**Hammad:** Did you go to the dentist?  
+(Kya tum dentist ke paas gaye?)  
+
+**Fahad:** Yes, he gave me the medicine. I am feeling better now.  
+(Haan, unhone mujhe dawa di. Ab main behtar mehsoos kar raha hoon.)  
+
+**Hammad:** OK. Let's go to the classroom now.  
+(Thik hai. Chalo ab classroom mein chalte hain.)  
+
