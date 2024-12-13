@@ -568,3 +568,71 @@
 | Really                | Sach mein (Haqeeqat mein)                                          |
 | No                    | Nahi (Inkaar ka lafz)                                              |
 | At all                | Bilkul bhi (Bilkul nahi)                                           |
+
+
+### **Chapter 11: The Picnic at Rawal Lake**
+
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
+|-----------------------|------------------------------------------------------------|
+| Long                  | Lamba (Zyada der tak)                                      |
+| Time                  | Waqt (Jab kuch hota hai)                                   |
+| Ago                   | Pehlay (Kuch waqt pehle)                                   |
+| Wizard                | Jadu ka aadmi (Aisa shaks jo jadoo karta hai)               |
+| Made                  | Banaya (Kuch banana ya tayar karna)                        |
+| Spell                 | Jadoo ka ilaj (Jadoo ka amal ya tareeqa)                   |
+| Whoever               | Jo koi bhi (Har shakhs jo kuch kare)                        |
+| Used                  | Istamal kiya (Kuch kaam mein lana)                         |
+| Perfect               | Mukammal (Bilkul sahi aur behtareen)                        |
+| Teeth                 | Daant (Munh mein hote hain, khanay ke liye)                 |
+| Decided               | Faisla kiya (Kuch karne ka intekhab kiya)                   |
+| Toad                  | Baal wala keera (Chhota sa zinda keera jo paani ke aas paas rehta hai) |
+| After                 | Baad mein (Kuch hone ke baad)                              |
+| Cast                  | Fenkna (Kisi cheez ko phenkna ya dalna)                     |
+| Became                | Ban gaya (Kisi cheez mein tabdeel ho jana)                  |
+| Smiley                | Muskarata (Khush dikhna)                                    |
+| Happy                 | Khush (Agar dil se khush ho)                               |
+| Creature              | Jandar (Zinda shaks ya jaanwar)                             |
+| Eat                   | Khana (Cheezain khana)                                      |
+| Sorts                 | Qismain (Alag alag cheezain)                               |
+| Foods                 | Khana (Jo hum khate hain)                                   |
+| Started               | Shuru kiya (Kuch kaam ka aaghaz kiya)                      |
+| Speaking              | Bolna (Zubaan se baat karna)                                |
+| Delighted             | Khush (Jab aap kuch achha sunte ho)                         |
+| Repeated              | Dhohraya (Kuch bar bar kehna)                              |
+| Prefer                | Pasand karna (Kuch cheez ko doosri cheez se behtar samajhna) |
+| Eating                | Khana (Cheez ko khana ya chabaana)                         |
+| Candies               | Mithaiyan (Chhoti mithai ki cheezain)                       |
+| Feeding               | Khilana (Kisi ko khana dena)                               |
+| Flies                 | Patangay (Chhote jandar jo udte hain)                       |
+| Noticed               | Dekha (Kuch cheez ko dhyaan se dekhna)                      |
+| Taking                | Lena (Kuch cheez ko lena ya apne paas rakhna)               |
+| Care                  | Khaayal rakhna (Kisi cheez ka dhyaan dena)                  |
+| Choosing              | Chunna (Kuch cheez ka intekhab karna)                       |
+| Look after            | Khaayal rakhna (Kisi cheez ko sambhalna)                    |
+| Brush                 | Daant saaf karna (Daant par brash lagana)                   |
+| Toothache             | Daant ka dard (Daant mein dard hona)                        |
+| Above all             | Sab se zaroori (Sab se pehle)                               |
+| Many                  | Zyada (Bohat saari cheezain)                                |
+| Sweets                | Mithaiyan (Meethi cheezain jo zyada pasand hoti hain)       |
+| Pay                   | Diyaan dena (Kisi cheez par dhyaan lagana)                  |
+| Attention             | Tawajjo (Dyaan dena ya nazar rakhna)                        |
+| Thought               | Socha (Kuch sochna ya mann mein rakhna)                    |
+| Strong                | Mazboot (Zyada taqatwar ya kuch jo toot na sake)            |
+| Enjoyed               | Maza liya (Kuch ka lutf uthana)                             |
+| Much                  | Bohat (Zyada hona)                                          |
+| Tried                 | Koshish ki (Kuch karne ki koshish karna)                    |
+| Decaying              | Sogna (Kuch ka khatam hona ya badalna)                      |
+| Slowly                | Dheere dheere (Aahista aahista)                             |
+| Spread                | Phailna (Kisi cheez ka zyada jagah per phelna)              |
+| Throughout            | Har jagah (Kisi cheez ka har jagah hona)                    |
+| Mouth                 | Munh (Cheez ko andar daalne ka hissa)                       |
+| Holes                 | Chehre ke andar hole (Chhote daag ya jaise cheezein gir jaati hain) |
+| Fall                  | Girna (Kisi cheez ka neeche gir jana)                        |
+| Last                  | Aakhri (Khatam hone wala)                                   |
+| Lost                  | Kho jana (Kisi cheez ka chala jana)                         |
+| Ability               | Salahiyat (Kisi cheez ko karne ki takat)                    |
+| Nothing               | Kuch nahi (Bilkul kuch bhi nahi)                            |
+| More                  | Zyada (Kuch aur ya zyada cheezain)                          |
+| Distasteful           | Nafrat angez (Jo achha na lagay)                             |
+| Eating bugs           | Keera khana (Pahaari ya neechay se kuch khana jo pasand nahi hota) |
+
