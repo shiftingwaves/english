@@ -272,3 +272,48 @@
 | Go to the mall                     | Mall jana (Shopping ke liye mall jaana)                   |
 | Was no picnic                      | Maza nahi aaya (Koi achi baat nahi hui)                   |
 
+---
+
+### **Phrase Table: 11**
+
+| **English Phrase**                   | **Roman Urdu Meaning**                                              |
+|--------------------------------------|---------------------------------------------------------------------|
+| **A long time ago**                  | Bohat arsay pehle (Bohat puranay waqt mein)                        |
+| **There was**                        | Wahan tha (Kisi cheez ka mojood hona)                              |
+| **A wizard**                         | Jadoo Gar (Jadoo karne wala shakhs)                                |
+| **Made a new spell**                 | Naya jadu banaya (Naya jaadu tayar kiya)                           |
+| **Whoever used the spell**           | Jo bhi jadu istemal kare (Jo koi bhi jadu ka istemal kare)           |
+| **Perfect teeth**                    | Kamal ke daant (Bohat ache aur sehatmand daant)                     |
+| **Decided to use it**                | Iska istemal karne ka faisla kiya (Isay istemal karne ka faisla kiya)|
+| **One of his toads**                 | Uske toads mein se ek (Uske toads mein se ek janwar)                |
+| **After the spell was cast**         | Jadu lagne ke baad (Jadu istemal hone ke baad)                      |
+| **Became a very smiley happy creature** | Bohat musarrat aur khush makhlooq ban gaya (Bohat khush aur muskurata janwar) |
+| **Could eat all sorts of foods**     | Har qisam ka khana kha sakta tha (Har tarah ka khana kha sakta tha)   |
+| **Started speaking**                 | Baat karna shuru kiya (Bolna shuru kar diya)                        |
+| **I'm delighted with the change**     | Mein is tabdeeli se khush hoon (Mein is badlaav se khush hoon)       |
+| **Repeated proudly**                 | Fakhr se dohraaya (Aitbaar aur fakhr ke sath dohraya)               |
+| **I prefer eating candies**          | Mujhe mithai khana pasand hai (Mujhe mithai khana zyada acha lagta hai)|
+| **Feeding on flies**                 | Machhliyon par khana (Machhliyon se khana khana)                     |
+| **Noticing the toad's behavior**     | Toad ke bartao ko mehsoos kiya (Toad ke tareeqe ko dekha)            |
+| **Taking little care**               | Kam khayal rakha (Zyada fikr nahi ki)                               |
+| **Choosing what to eat**             | Kya khana hai chunna (Kya khana hai chunna)                           |
+| **Look after your teeth**            | Apne daanton ka khayal rakhna (Daanton ki dekhbhaal karna)           |
+| **Brush them**                       | Unko saaf karna (Daanton ko saaf karna)                             |
+| **Don't get a toothache**            | Danton mein dard na ho (Danton mein dard na ho)                      |
+| **Above all**                        | Sab se pehle (Sab se zyada)                                         |
+| **Don't eat so many sweets**         | Itni mithai mat khao (Zyada mithai mat khao)                        |
+| **Didn't pay much attention**        | Zyada dhyaan nahi diya (Zyada tawajjo nahi di)                      |
+| **Thought his teeth were too strong**| Socha ke uske daant bohat mazboot hain (Socha ke uske daant bohat taqatwar hain)|
+| **Liked and enjoyed sweets**         | Mithai pasand karta tha aur lutf uthata tha (Mithai ko pasand karta tha aur maza leta tha)|
+| **Didn't try to eat less**           | Kam khane ki koshish nahi ki (Kam khana khane ki koshish nahi ki)    |
+| **A tooth started decaying**         | Ek daant kharab hona shuru ho gaya (Ek daant girne laga)              |
+| **Decay spread throughout his mouth**| Kharabi uske mooh mein phail gayi (Kharabi uske mooh mein phel gayi)|
+| **Holes in all his teeth**           | Uske sabhi daanton mein chhed ho gaye (Uske tamam daanton mein surakh ho gaye)|
+| **Starting to fall out**             | Girne lagna (Girna shuru ho jana)                                   |
+| **Lost the ability to eat**          | Khaane ki salahiyat kho di (Khaane ki taqat kho di)                 |
+| **Poor Mr. Toad**                    | Bechara Mr. Toad (Mr. Toad ko takleef hui)                         |
+| **If he hadn't lost that last tooth**| Agar usne apna aakhri daant na khoya hota (Agar uska aakhri daant nahi girta)|
+| **Could have told the wizard**       | Jadoo karne walay ko bata sakta tha (Jadoo karne walay se keh sakta tha)|
+| **Promise to take care**             | Dekhbhaal ka wada (Dekhbhaal karne ka wada)                         |
+| **Nothing could be done now**        | Ab kuch nahi kiya jaa sakta (Ab kuch nahi ho sakta)                  |
+| **Nothing more distasteful than eating bugs** | Keede khane se zyada nafrat angiz kuch nahi (Keede khana sab se nafrat angiz hai) |
