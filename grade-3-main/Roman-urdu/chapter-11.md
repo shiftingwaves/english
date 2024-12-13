@@ -223,3 +223,200 @@ Yahan verbs ka aakhri sound **voiced** hota hai, is liye "d" sound lagta hai.
 2. Agar voiceless ho → **t**.
 3. Agar voiced ho → **d**.
 
+
+---
+---
+---
+---
+---
+
+
+### **"Wh-Words" Kya Hain?**
+**"Wh-words" wo words hain jo hum English mein questions (sawaal) banane ke liye use karte hain.** Ye words kisi cheez, shakhs, jagah, wajah, waqt ya tareeqa ke bare mein maloomat lene ke liye istemal hote hain. Har "Wh-word" ka apna specific maqsad aur usage hota hai.
+
+---
+
+### **"Wh-Words" List aur Unka Maqsad:**
+Image ke mutabiq, ye **Wh-words** hain jo aapko maloomat lene ke liye use karne hain:
+
+1. **What:** Kis cheez ke bare mein sawal.  
+2. **When:** Waqt ke bare mein sawal.  
+3. **Where:** Jagah ke bare mein sawal.  
+4. **Who:** Shakhs ke bare mein sawal (subject).  
+5. **Whom:** Shakhs ke bare mein sawal (object).  
+6. **Which:** Choice ya pasand ke liye sawal.  
+7. **Whose:** Kisi cheez ke malik ke liye sawal.  
+8. **Why:** Wajah ya reason ke liye sawal.  
+9. **How:** Tareeqa ya halat ke liye sawal.
+
+---
+
+### **"Read Me" Section Ka Mutabiq Explanation:**
+1. Simple Wh-questions hamesha "Wh-words" se shuru hote hain. 
+   - Jaise: What, When, Where, Who, Whom, Which, Whose, Why, How.
+2. Inka use specific maloomat ke liye hota hai, jaise:
+   - **What:** "Kya hai?" (Maloomat lene ke liye)
+   - **When:** "Kab?" (Waqt ka sawal)
+
+---
+
+### **Tafseel ke Sath Har Wh-Word ka Use:**
+
+#### **1. What (Kya):**
+- Ye cheezon ya kaamon ke liye use hota hai.
+- **Examples:**
+  - What is this? (Ye kya hai?) → This is an old camera. (Ye purani camera hai.)
+  - What do you want? (Tum kya chahte ho?)
+
+#### **2. When (Kab):**
+- Ye waqt ke bare mein sawal puchhne ke liye hota hai.
+- **Examples:**
+  - When will you go to the zoo? (Tum zoo kab jaoge?) → I will go on Sunday. (Main Sunday ko jaunga.)
+  - When is your birthday? (Tumhara birthday kab hai?)
+
+#### **3. Where (Kahan):**
+- Ye jagah ya location ke liye sawal puchhne ke liye hota hai.
+- **Examples:**
+  - Where is my jacket? (Meri jacket kahan hai?) → It is in my bedroom. (Ye meri bedroom mein hai.)
+  - Where do you live? (Tum kahan rehte ho?)
+
+#### **4. Who (Kaun):**
+- Ye kisi shakhs ke bare mein sawal ke liye hota hai (subject ke liye).
+- **Examples:**
+  - Who is your friend? (Tumhara dost kaun hai?) → Hammad is my friend. (Hammad mera dost hai.)
+  - Who is calling? (Kaun call kar raha hai?)
+
+#### **5. Whom (Kise):**
+- Ye shakhs ke liye hota hai jab wo object ho (kiske liye kaam ho raha hai).
+- **Examples:**
+  - Whom will you invite? (Tum kisse bulaoge?) → I will invite all my classmates. (Main apne classmates ko bulaunga.)
+  - Whom did you see? (Tumne kisse dekha?)
+
+#### **6. Which (Kaunsa/Kaunsi):**
+- Ye choice ya pasand ke liye hota hai.
+- **Examples:**
+  - Which color do you like? (Tumhe kaunsa color pasand hai?) → I like brown color. (Mujhe brown color pasand hai.)
+  - Which one is yours? (Tumhara kaunsa hai?)
+
+#### **7. Whose (Kis ka/Kis ki):**
+- Ye kisi cheez ke malik ya possession ke liye hota hai.
+- **Examples:**
+  - Whose watch is this? (Ye ghari kiski hai?) → This is mine. (Ye meri hai.)
+  - Whose bag is on the table? (Table par bag kis ka hai?)
+
+#### **8. Why (Kyoon):**
+- Ye wajah ya reason ke liye sawal hota hai.
+- **Examples:**
+  - Why are you so late? (Tum itne late kyun ho?) → I missed the morning bus. (Mujhse morning bus miss ho gayi.)
+  - Why did you leave early? (Tum jaldi kyun chale gaye?)
+
+#### **9. How (Kaise):**
+- Ye tareeqa, halat ya explanation ke liye hota hai.
+- **Examples:**
+  - How do you feel now? (Tum ab kaise ho?) → I am much better now. (Main ab kaafi behtar hoon.)
+  - How does this work? (Ye kaise kaam karta hai?)
+
+---
+
+### **Wh-Questions Kaise Use Karein?**
+1. **Sawal banane ka tareeqa:**
+   - Wh-word ko shuru mein rakhein.
+   - Uske baad verb ya helping verb lagayein.
+   - Phir subject aur object ke saath question complete karein.
+   - **Example:** Why are you late? (Tum late kyun ho?)
+
+2. **Wh-questions ke jawab kaise dein:**
+   - Wh-word ka jawab specific maloomat ke saath dein.
+   - **Example:**  
+     - **Question:** Where is my book? (Meri kitab kahan hai?)  
+     - **Answer:** It is on the table. (Ye table par hai.)
+
+3. **Wh-questions har tarah ke sentences ke liye kaam karte hain:**
+   - Waqt ke liye (When).
+   - Jagah ke liye (Where).
+   - Shakhs ke liye (Who/Whom).
+   - Cheezon ke liye (What).
+   - Pasand ke liye (Which).
+   - Wajah ke liye (Why).
+   - Tareeqa ya halat ke liye (How).
+
+
+===
+
+**Neeche exercise ka solution Roman Urdu mein tafseel ke saath diya gaya hai, jisme statements ko Wh-questions mein badla gaya hai:**
+
+---
+
+### **1. Statement:**  
+**Ellisa wants to buy a book.**  
+- **Question:** **What does Ellisa want to buy?**  
+- **Explanation:**  
+  - Yahan sawal puchhna hai "kya" Ellisa lena chahti hai, is liye hum **"What"** ka use karte hain.  
+  - Helping verb **"does"** lagta hai kyunki subject singular (Ellisa) hai.  
+  - Verb "want" ko base form mein rakha gaya.  
+  - Sawal: **Ellisa kya lena chahti hai?**
+
+---
+
+### **2. Statement:**  
+**My friend’s birthday is on 26th.**  
+- **Question:** **When is your friend’s birthday?**  
+- **Explanation:**  
+  - Yahan birthday ki date ke bare mein puchhna hai, is liye hum **"When"** ka use karte hain.  
+  - "When" waqt ya date ke liye use hota hai.  
+  - Is sentence mein already verb "is" mojood hai, is liye kisi aur helping verb ki zarurat nahi.  
+  - Sawal: **Tumhare dost ka birthday kab hai?**
+
+---
+
+### **3. Statement:**  
+**It’s 10 o’clock.**  
+- **Question:** **What time is it?**  
+- **Explanation:**  
+  - Yahan time ke bare mein sawal puchhna hai, is liye hum **"What time"** ka use karte hain.  
+  - "Is it" ko statement ke structure ko rearrange karke question banaya gaya.  
+  - Sawal: **Abhi time kya ho raha hai?**
+
+---
+
+### **4. Statement:**  
+**My uncle’s house is in Satellite Town.**  
+- **Question:** **Where is your uncle’s house?**  
+- **Explanation:**  
+  - Yahan jagah ke bare mein sawal karna hai, is liye hum **"Where"** ka use karte hain.  
+  - Verb "is" ke baad baaki sentence wahi ka wahi rakha gaya.  
+  - Sawal: **Tumhare uncle ka ghar kahan hai?**
+
+---
+
+### **Mukammal Jawabat (Roman Urdu mein):**
+
+1. **Statement:** Ellisa wants to buy a book.  
+   **Question:** Ellisa kya lena chahti hai? (What does Ellisa want to buy?)  
+
+2. **Statement:** My friend’s birthday is on 26th.  
+   **Question:** Tumhare dost ka birthday kab hai? (When is your friend’s birthday?)  
+
+3. **Statement:** It’s 10 o’clock.  
+   **Question:** Abhi time kya ho raha hai? (What time is it?)  
+
+4. **Statement:** My uncle’s house is in Satellite Town.  
+   **Question:** Tumhare uncle ka ghar kahan hai? (Where is your uncle’s house?)  
+
+---
+
+### **Kaise Solve Karein (Roman Urdu mein):**
+
+1. **Pehle statement padhein aur dekhein key information kya hai:**  
+   - Agar **cheez** ka sawal hai, to "What."  
+   - Agar **waqt** ka sawal hai, to "When."  
+   - Agar **jagah** ka sawal hai, to "Where."  
+
+2. **Sahi Wh-word choose karein.**  
+
+3. **Helping verb lagayein agar zarurat ho (does, is, etc.).**  
+
+4. **Sentence ko Wh-word ke sath arrange karein.**  
+   - Example: **Ellisa wants to buy a book** → **What does Ellisa want to buy?**
+
+
