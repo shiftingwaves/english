@@ -1,6 +1,6 @@
 
 
-#**Chapter 1: A Friendly Greeting and Playtime**  
+# **Chapter 1: A Friendly Greeting and Playtime**  
 
 **Sadia:** Assalāmu Alaikum!  
 (Assalam-o-Alaikum!)  
@@ -25,5 +25,6 @@
 
 **Ayaan:** yes. we can!  
 (Haan, hum khel saktay hain!)  
+
 ---
 
