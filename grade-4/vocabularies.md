@@ -1,5 +1,5 @@
 
-### Chapter 1
+# Chapter 1
 
 | **English Word**      | **Roman Urdu Meaning (in parentheses)**                              |
 |-----------------------|-----------------------------------------------------------           |
@@ -70,4 +70,29 @@
 | Justice               | Insaaf (Dahi aur sahi faislay karna)                                 |
 | Wisdom                | Hikmat (Aqalmandi aur sahi faislay karna)                             |
 | Community             | Jamaat (Logon ka group ya community)                                  |
+---
+
+
+# Chapter 2
+
+| **English Word**       | **Roman Urdu Meaning (in parentheses)**                   |
+|------------------------|---------------------------------------------------------- |
+| Brown                  | Bhura (Ek rang jo zameen ke rang jaisa hota hai)          |
+| Furry                  | Roi Daar (Jis par barik baal ya roi hoti hai)             |
+| Caterpillar            | Keera (Ek chhota rang biranga keera jo butterfly banta hai) |
+| Hurry                  | Jaldi (Tezi se koi kaam karna)                            |
+| Walk                   | Chalna (Pairoon ke zariye aage barhna)                    |
+| Shady                  | Saaya Daar (Jahan dhoop se bachne ka saaya ho)            |
+| Leaf                   | Patta (Darakht ka haray rang ka hissa)                    |
+| Stalk                  | Dandi (Wo hissa jo patte ya phool ko sambhalta hai)       |
+| Spot                   | Jagah (Koi khaas jagah ya maqam)                          |
+| Toad                   | Maindak (Chhota pani ka janwar jo uchhalta hai)           |
+| Spy                    | Jasoosi Karna (Chhup kar dekhna)                          |
+| Hovering               | Mandlana (Hawa mein ghoomna ya tairna)                    |
+| Bird                   | Parinda (Urtay hue jaanwar)                               |
+| Prey                   | Shikar (Woh jo kisi aur janwar ka khana ban jata hai)     |
+| Pass                   | Guzarna (Aage barhna ya raste se nikalna)                 |
+| Spin                   | Ghoomna (Tezi se ghoomna ya dhaga bunna)                  |
+| Die                    | Marna (Zindagi ka khatam hona)                            |
+
 ---
