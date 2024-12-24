@@ -27,3 +27,18 @@
 | Bedtime story           | Sohne se pehle ki kahani                              | Raat mein sone se pehle sunayi jane wali kahani.                  |
 | Go to sleep             | Sone jana                                             | Neend lena ya aram karna.                                         |
 
+
+### Chapter 1
+
+| **English Phrase**        | **Roman Urdu Meaning**                                 | **Roman Urdu Explanation**                                          |
+|---------------------------|-------------------------------------------------------|----------------------------------------------------------------------|
+| Cobbler, Cobbler          | Mochi, Mochi (Jo jootay banata aur theek karta hai)   | Mochi woh hota hai jo jootay ke kaam mein maahir hota hai.           |
+| Mend my shoe              | Mera juta theek karo (Jootay ki murammat karna)       | Jab juta toot jaye ya kharab ho, usay theek karna.                   |
+| Get it done               | Ye kaam kar do (Kaam mukammal karna)                  | Kaam ko pura karne ki guzarish.                                      |
+| Half past two             | Dhai baje (Din ka aik waqt, 2:30 bajay)               | Ye waqt hai jab din ke dhai baje hotay hain.                         |
+| Much too late             | Bohat dair ho gayi (Samay zyada guzar gaya)           | Jab waqt zyada guzar jaye aur kaam mein dair ho.                     |
+| Half past eight           | Sava aath baje (Raat ke 8:30 ka waqt)                 | Ek waqt ka izhar jo 8 baje ke baad hota hai.                         |
+| Stitch it up              | Isay see do (Kisi cheez ko silai ke zariye jodna)     | Jab kapray ya jootay ki murammat silai se ki jaye.                   |
+| Stitch it down            | Neeche se see do (Silai neeche tak le jaana)          | Cheez ko neeche ki taraf silai se mazboot karna.                     |
+| Half a crown              | Aadha taaj (Ek purani British currency ka izhar)     | Aik qisam ka paisa jo puranay zamane mein istemal hota tha.          |
+
