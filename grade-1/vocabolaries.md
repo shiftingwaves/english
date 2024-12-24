@@ -34,3 +34,23 @@
 
 ---
 
+### Chapter 2
+
+| **English Word**      | **Roman Urdu Meaning**           | **Explanation (Roman Urdu)**                        |
+|-----------------------|-----------------------------------|-----------------------------------------------------|
+| Cobbler               | Mochi                            | Woh shaks jo jootay banaata ya thik karta hai.      |
+| Mend                  | Marammat karna                   | Kisi cheez ko theek karna ya durust karna.          |
+| Shoe                  | Joota                            | Pairon mein pehnne ka samaan.                       |
+| Get                   | Hasil karna                     | Kisi cheez ko lene ka amal.                         |
+| Done                  | Mukammal karna                  | Kisi kaam ko poora kar lena.                        |
+| Half                  | Aadha                            | Kisi cheez ka do hisso mein se ek hissa.            |
+| Past                  | Guzar gaya                       | Kisi waqt ka guzar jana.                            |
+| Two                   | Do                               | Ginti mein do ka number.                            |
+| Much                  | Bohat zyada                     | Kisi cheez ki bohot zyada miqdaar.                  |
+| Late                  | Der                              | Kisi cheez ka waqt se pehle na hona.                |
+| Eight                 | Aath                             | Ginti mein aath ka number.                          |
+| Stitch                | Silaai karna                    | Kapray ya cheezon ko sui dhagay se jorna.           |
+| Up                    | Oopar                            | Uthne ya barhne ki taraf.                           |
+| Down                  | Neeche                           | Girne ya neeche ki taraf.                           |
+| Crown                 | Taaj ya sikka                   | Raja ka taaj ya purane daur ka sikka.               |
+
