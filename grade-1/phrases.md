@@ -27,8 +27,9 @@
 | Bedtime story           | Sohne se pehle ki kahani                              | Raat mein sone se pehle sunayi jane wali kahani.                  |
 | Go to sleep             | Sone jana                                             | Neend lena ya aram karna.                                         |
 
+---
 
-### Chapter 1
+### Chapter 3
 
 | **English Phrase**        | **Roman Urdu Meaning**                                 | **Roman Urdu Explanation**                                          |
 |---------------------------|-------------------------------------------------------|----------------------------------------------------------------------|
@@ -41,4 +42,28 @@
 | Stitch it up              | Isay see do (Kisi cheez ko silai ke zariye jodna)     | Jab kapray ya jootay ki murammat silai se ki jaye.                   |
 | Stitch it down            | Neeche se see do (Silai neeche tak le jaana)          | Cheez ko neeche ki taraf silai se mazboot karna.                     |
 | Half a crown              | Aadha taaj (Ek purani British currency ka izhar)     | Aik qisam ka paisa jo puranay zamane mein istemal hota tha.          |
+
+---
+
+### Chapter 4
+
+| **English Phrase**            | **Roman Urdu Meaning**             | **Roman Urdu Explanation**                                        |
+|-------------------------------|-------------------------------------|--------------------------------------------------------------------|
+| Huma is a good girl.          | Huma achi larki hai.               | (Ye batata hai ke Huma ek achi aur sharif larki hai.)              |
+| She likes helping others.     | Usay dosron ki madad karna pasand hai. | (Ye batata hai ke Huma dosron ki madad karne wali larki hai.)     |
+| Today, she is helping her sister Hina. | Aaj woh apni behan Hina ki madad kar rahi hai. | (Huma apni behan ki madad kar rahi hai jo uski achai dikhata hai.) |
+| They are making flowers.      | Woh phool bana rahe hain.          | (Huma aur Hina pencil shavings se phool bana rahe hain.)           |
+| Pencil shavings               | Pencil ki chheelai                 | (Woh choori se pencil sharpen karne ke baad jo chheelai banti hai.)|
+| Things we need                | Jo cheezein hamein chahiyein       | (Woh cheezein jo is kaam ke liye istemal hongi.)                  |
+| Lead pencil                   | Sada pencil                        | (Ek aam pencil jo likhne ke liye hoti hai.)                       |
+| Sharpener                     | Pencil ki nuk banane wala alat     | (Ek chhota alat jo pencil ki nuk banata hai.)                     |
+| Colour pencils                | Rang birangi pencils               | (Pencils jo alag alag rangon ki hoti hain.)                       |
+| Glue                          | Gandak                             | (Cheezon ko chipkane ke liye paste.)                              |
+| A paper                       | Ek kaghaz                          | (Sada kaghaz jo likhne ya banane ke liye hota hai.)               |
+| A pair of scissors            | Ek joora kaanchiyan                | (Cheezon ko kaatne ke liye chhoti kaanchiyan.)                    |
+| Sharpen the colour pencils.   | Rang birangi pencils ko tez karo.  | (Colour pencils ki nuk banane ke liye sharpener ka istemal karo.) |
+| Collect the pencil shavings.  | Pencil ki chheelai jama karo.      | (Jo chheelai nikle usko sambhal kar rakho.)                       |
+| Take a piece of paper.        | Ek tukda kaghaz lo.                | (Ek kaghaz ka tukda jo phool banane ke liye istemal hoga.)        |
+| Draw small flowers.           | Chhote phool banao.                | (Kaghaz par pencil ke sath chhote phool banane hain.)             |
+| Use glue to paste.            | Chipkane ke liye gandak lagao.     | (Pencil chheelai ko chipkane ke liye glue ka istemal karo.)       |
 
