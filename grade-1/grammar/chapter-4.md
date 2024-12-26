@@ -262,3 +262,122 @@ Neeche kuch sentences hain jin mein blanks hain. Inhein fill karte hain, cheezon
    - **Plural:** "these" (kareeb) / "those" (door).  
 
 vido link is here: https://youtu.be/-oWfO-OajXk?si=4_8PQqdfR-Ebapwc
+
+---
+---
+---
+### Understanding Articles in English Grammar (Roman Urdu Mein Behtareen Format Mein)
+
+---
+
+### **Introduction**
+Is video mein hum English grammar ke ek important hissa, **articles**, ko samjhenge. Hum "A," "AN," aur "THE" ke sahi istemal par focus karenge. Ye articles sentences ko clarity aur context dete hain. Samajhne ke liye poora guide parhein!
+
+---
+
+### **Articles Kya Hain?**
+- Articles woh words hain jo nouns ke pehle lagte hain aur unhein specify karte hain.
+- Teen tarah ke articles hain:
+  1. **"A" aur "AN"** - Indefinite articles
+  2. **"THE"** - Definite article
+
+---
+
+### **"A" aur "AN" Ka Istemaal**
+
+#### **"A" Ka Istemaal**
+- **"A"** un nouns ke pehle lagta hai jo **consonant sound** se shuru hote hain.
+- **Consonant sounds**: Wo sounds jo vowels (A, E, I, O, U) nahi hain.
+- **Examples:**
+  - A **cat** (ek billi)
+  - A **dog** (ek kutta)
+  - A **house** (ek ghar)
+
+#### **"AN" Ka Istemaal**
+- **"AN"** un nouns ke pehle lagta hai jo **vowel sound** se shuru hote hain.
+- **Vowel sounds**: A, E, I, O, U.
+- **Examples:**
+  - An **apple** (ek seb)
+  - An **orange** (ek santara)
+  - An **umbrella** (ek chhata)
+
+#### **Key Points Yaad Rakhne Ke Liye**
+| Article | Kab Use Karein           | Examples               |
+|---------|--------------------------|------------------------|
+| A       | Consonant sound ke saath | A car, A boy           |
+| AN      | Vowel sound ke saath     | An owl, An elephant    |
+
+---
+
+### **"THE" Ka Istemaal**
+
+#### **"THE" Ki Importance**
+- Jab kisi **specific ya unique cheez** ka zikr ho, tab "THE" use hota hai.
+- Ye batata hai ke woh cheez sabko maloom ya sirf ek hi hai.
+
+#### **Examples**
+1. **The sun**  
+   - Sirf ek suraj hai.
+2. **The moon**  
+   - Sirf ek chaand hai.
+3. **The Taj Mahal**  
+   - Ek iconic aur unique monument.
+
+#### **Situational Use**
+| Item                  | Explanation                   |
+|-----------------------|-------------------------------|
+| The Earth             | Sirf ek Zameen hai           |
+| The Ganges            | India ki ek specific nadi    |
+| The Bible             | Ek specific religious kitab  |
+
+#### **Important Considerations**
+1. Unique entities ke liye "THE" ka istemal karein.  
+   - Jaise: The **Eiffel Tower**, The **Himalayas**.
+2. Specific plural groups ke liye "THE" use karein.
+   - Jaise: The **children** of the school.
+
+---
+
+### **Practice Exercises**
+
+1. Identify the article:  
+   - Sentence: "I saw a bird in the garden."  
+     **Answer**: "a" indefinite article hai, aur "the" definite article hai.
+
+2. Fill in the blank:  
+   - "____ sun rises in the east."  
+     **Answer**: "The" sun rises in the east.
+
+3. Correct Article Lagayein:  
+   - "Do you have ____ umbrella?"  
+     **Answer**: "An" umbrella (vowel sound ke liye).
+
+4. Match the Articles:  
+   - "Give me ___ map."  
+     **Answer**: "The" map.
+
+---
+
+### **Conclusion**
+
+1. **Quick Recap:**
+   - **"A"** consonant sounds ke liye.
+   - **"AN"** vowel sounds ke liye.
+   - **"THE"** specific aur unique cheezon ke liye.
+
+2. **Practice Karo:**  
+   - Exercises aur examples ke zariye practice karo, aur grammar ko behtareen banao.
+
+---
+
+### **Takeaway**
+- Articles ka sahi istemal karna English grammar seekhne ka ek zaroori hissa hai.  
+- Regular practice se aap language mein confident banenge.  
+- Hamesha yaad rakhein:
+  - **A**: Consonants ke liye.
+  - **AN**: Vowels ke liye.
+  - **THE**: Specific references ke liye.
+
+---
+
+vido link: https://youtu.be/W1PW2XfyOgM?si=K-FfqgjxG0x4PaCF
