@@ -120,3 +120,145 @@
 4. Kuch nouns irregular hote hain, jinhe yaad karna padta hai.  
 video links: https://youtu.be/CUjGZHF40as?si=DilxogdlP-7zrRt8
 ---
+---
+---
+
+### Roman Urdu Explanation of the Readme:
+
+---
+
+**Doston, Learning Notebook channel mein khushamadeed!**  
+Aaj ki video mein hum Class 1 ke English Grammar ka ek ahem topic discuss karenge:  
+**"This," "That," "These," aur "Those."**  
+Chaliye samajhte hain ki in words ka istemal kab aur kaise hota hai.  
+
+---
+
+### **'This' aur 'That' ka Samajhna**
+
+1. **Ek cheez jo humare kareeb ho**, us ke liye **'this'** ka use karte hain.  
+   **Example:**  
+   - Agar ek **apple** humare kareeb hai, to hum kehte hain:  
+     **"This is an apple."**
+
+2. **Ek cheez jo humse door ho**, us ke liye **'that'** ka use karte hain.  
+   **Example:**  
+   - Agar ek **crocodile** door hai (aur aap uske paas nahi jana chahte!), to hum kehte hain:  
+     **"That is a crocodile."**
+
+---
+
+### **'These' aur 'Those' ka Samajhna**
+
+1. **Zyada cheezen jo humare kareeb ho**, un ke liye **'these'** ka use karte hain.  
+   **Example:**  
+   - Agar zyada machhliyan kareeb hain, hum kehte hain:  
+     **"These are fish."**
+
+2. **Zyada cheezen jo humse door ho**, un ke liye **'those'** ka use karte hain.  
+   **Example:**  
+   - Agar zyada parinday door hain, hum kehte hain:  
+     **"Those are birds."**
+
+---
+
+### **Quick Summary**  
+- **'This'** aur **'that'** singular (ek cheez) ke liye use hote hain:  
+   - **'This'** kareeb cheez ke liye.  
+   - **'That'** door cheez ke liye.  
+- **'These'** aur **'those'** plural (zyada cheezen) ke liye use hote hain:  
+   - **'These'** kareeb cheezon ke liye.  
+   - **'Those'** door cheezon ke liye.  
+
+---
+
+### **Examples:**  
+
+1. **'This' aur 'That':**  
+   - Agar ek apple kareeb hai:  
+     **"I like this apple."**  
+   - Agar ek apple door hai:  
+     **"I like that apple."**
+
+2. **'These' aur 'Those':**  
+   - Agar teen apples kareeb hain:  
+     **"I like these apples."**  
+   - Agar woh teen apples door hain:  
+     **"I like those apples."**
+
+**Summary:**  
+- **'This'** = Ek cheez kareeb.  
+- **'That'** = Ek cheez door.  
+- **'These'** = Zyada cheezen kareeb.  
+- **'Those'** = Zyada cheezen door.  
+
+---
+
+### **Practice Examples:**
+
+#### Example 1:
+- **Ek cheez kareeb:**  
+  **"This is a book."**  
+
+- **Ek cheez door:**  
+  **"That is a book."**
+
+#### Example 2:
+- **Zyada cheezen kareeb:**  
+  **"These are chocolates."**  
+
+- **Zyada cheezen door:**  
+  **"Those are chocolates."**
+
+---
+
+### **Exercise Practice:**
+
+Neeche kuch sentences hain jin mein blanks hain. Inhein fill karte hain, cheezon ke kareeb ya door hone aur singular ya plural hone ke mutabiq:
+
+1. **____ car is amazing.**  
+   - Car door hai aur singular hai, is liye hum kehte hain:  
+     **"That car is amazing."**
+
+2. **I like ____ dog.**  
+   - Dog kareeb hai aur singular hai, is liye hum kehte hain:  
+     **"I like this dog."**
+
+3. **____ bananas are ripe.**  
+   - Bananas kareeb hain aur plural hain, is liye hum kehte hain:  
+     **"These bananas are ripe."**
+
+4. **____ cookies look tasty.**  
+   - Cookies door hain aur plural hain, is liye hum kehte hain:  
+     **"Those cookies look tasty."**
+
+5. **Can you give me ____ books?**  
+   - Books door hain aur plural hain, is liye hum kehte hain:  
+     **"Can you give me those books?"**
+
+6. **____ bus over there is very big.**  
+   - Bus door hai aur singular hai, is liye hum kehte hain:  
+     **"That bus over there is very big."**
+
+7. **Look at ____ birds up there.**  
+   - Birds door hain aur plural hain, is liye hum kehte hain:  
+     **"Look at those birds up there."**
+
+8. **We should ask ____ policeman for directions.**  
+   - Policeman door hai aur singular hai, is liye hum kehte hain:  
+     **"We should ask that policeman for directions."**
+
+9. **____ cupcakes are mine.**  
+   - Cupcakes kareeb hain aur plural hain, is liye hum kehte hain:  
+     **"These cupcakes are mine."**
+
+---
+
+### **Conclusion:**  
+- **'This'** aur **'these'** kareeb cheezon ke liye.  
+- **'That'** aur **'those'** door cheezon ke liye.  
+- Yad rakhain:  
+   - **Singular:** "this" (kareeb) / "that" (door).  
+   - **Plural:** "these" (kareeb) / "those" (door).  
+
+vido link is here: https://youtu.be/-oWfO-OajXk?si=4_8PQqdfR-Ebapwc
