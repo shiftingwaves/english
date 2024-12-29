@@ -80,3 +80,20 @@ Here’s your dialogue using the provided template:
 
 ---
 
+
+### **Chapter 5: A Snack Request**
+
+**Child:** Father, could you buy me some snacks?  
+(Baba, kya aap mujhe kuch snacks la kar denge?)  
+
+**Father:** Yes, sure!  
+(Haan, bilkul!)  
+
+**Child:** Thank you, father!  
+(Shukriya, Baba!)  
+
+**Father:** You are welcome.  
+(Aapka shukriya.)  
+
+---
+
