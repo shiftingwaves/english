@@ -83,4 +83,33 @@
 | Draw             | Banana (drawing)       | Kaghaz par tasveer banana ya likhna.                                                                                                                                                                             |
 | Small            | Chhota                 | Bari cheez ka ulat jo kam size ka ho.                                                                                                                                                                            |
 | Paste            | Chipkana               | Kaghaz par kisi cheez ko chipkana.                                                                                                                                                                               |
+---
+
+Chapter: 5
+  
+
+| **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
+|-----------------------|------------------------------------------------------       |
+| Let                   | Ijazat dena (Kisi ko kuch karne ki ijazat dena)             |
+| Others                | Dusre (Koi aur log ya shakhs)                               |
+| Share                 | Share karna (Cheezon ko milkar istemal karna)              |
+| Your                  | Tumhara (Kisi shakhs ka apna)                              |
+| Toys                  | Khilone (Bachon ke khelne ki cheezen)                      |
+| Son                   | Beta (Waldain ka ladka)                                    |
+| Do                    | Karna (Koi kaam anjam dena)                                |
+| Not                   | Nahi (Inkar karne ka lafz)                                 |
+| Insist                | Zor dena (Kisi baat par dabaw dalna ya barhakar kehna)     |
+| All                   | Sab (Har cheez ya tamam)                                   |
+| Fun                   | Mazay (Khushi aur tafreeh)                                 |
+| For                   | Ke liye (Kisi maqsad ke liye)                              |
+| If                    | Agar (Shart ka lafz)                                       |
+| Don't                 | Nahi karna (Kisi kaam se rokna)                            |
+| Certain               | Yaqini (Jo lazmi ho)                                       |
+| That                  | Woh (Jo ya jis ke liye)                                    |
+| You'll                | Tum hogay (Tum ho jaoge ya tum banogay)                    |
+| Grow                  | Barhna (Waqt ke sath barhna ya taraqqi karna)              |
+| Adult                 | Baligh (Bara ya jawan shakhs)                              |
+| Brat                  | Badmash (Badtameez ya shararti bachay ke liye istamal)     |
+
+---
 
