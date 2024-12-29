@@ -67,3 +67,20 @@
 | Draw small flowers.           | Chhote phool banao.                | (Kaghaz par pencil ke sath chhote phool banane hain.)             |
 | Use glue to paste.            | Chipkane ke liye gandak lagao.     | (Pencil chheelai ko chipkane ke liye glue ka istemal karo.)       |
 
+
+---
+### Chapter 5
+
+| **English Phrase**       | **Roman Urdu Meaning**                                 |
+|--------------------------|--------------------------------------------------------|
+| Let others share         | Dusron ko bhi shamil hone do (Apne saath dusron ko bhi mauka do) |
+| Share your toys          | Apne khilone share karo (Dusron ke saath apne cheezain baanto) |
+| My son                   | Mera beta (Pyaar bhara tareeqa apne bache ko bulane ka) |
+| Do not insist            | Zidd mat karo (Baat manane par zor mat do)             |
+| All the fun              | Saari maza masti (Puri khushi aur maza)                |
+| If you don't             | Agar tum nahi karte (Agar aisa na ho)                  |
+| It's certain             | Yeh pakka hai (Bilkul yaqeen hai)                      |
+| Grow to be               | Barhne lagoge (Aage ja kar ban jaoge)                  |
+| Adult brat               | Bada ziddi bacha (Zid aur khudgarzi se bhara shaks)    |
+
+
