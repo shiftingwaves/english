@@ -85,7 +85,7 @@
 | Paste            | Chipkana               | Kaghaz par kisi cheez ko chipkana.                                                                                                                                                                               |
 ---
 
-Chapter: 5
+# Chapter: 5
   
 
 | **English Word**      | **Roman Urdu Meaning (in parentheses)**                     |
@@ -112,4 +112,51 @@ Chapter: 5
 | Brat                  | Badmash (Badtameez ya shararti bachay ke liye istamal)     |
 
 ---
+# Chapter: 6
+
+| **English Word**      | **Roman Urdu Meaning**         | **Explanation (Roman Urdu)**                  |
+|-----------------------|---------------------------------|-----------------------------------------------|
+| One                   | Aik                            | Ek cheez ya shaks ka zikar karne ke liye.      |
+| Day                   | Din                           | Sooraj ke ugne aur dhalne ke darmiyan ka waqt. |
+| Fruits                | Phal                          | Meethay ya khattay phal jo darakhton se miltay hain. |
+| Vegetables            | Sabziyan                     | Sabz ya har tarah ki khaane wali poday ki cheezen. |
+| Met                   | Mila                          | Kisi shakhs se mulaqat hona. |
+| Together              | Sath                          | Aik jaga ya waqt mein mil kar. |
+| Basket                | Tokri                         | Cheezon ko rakhne ke liye istemal hone wali chhoti jaga. |
+| Became                | Ban gaya                     | Kisi shakhs ya cheez ki halat ya shakal tabdeel hona. |
+| Friends               | Dost                          | Aise log jo aapas mein pyar aur madad karte hain. |
+| Talking               | Baat karna                   | Alfaz ke zariye apni baat dusray tak pohchanay ka amal. |
+| Another               | Dusra                        | Ek ke ilawa aur bhi. |
+| Red                   | Laal                         | Ek rang jo khoon ya suraj ki tarah hota hai. |
+| Carrot                | Gajar                        | Ek sabzi jo zyadatar orange ya laal hoti hai. |
+| Sitting               | Baitha                       | Ek jaga aram se baithna. |
+| Quietly               | Khamoshi se                  | Bina awaaz ya shor ke kaam karna ya chalna. |
+| Corner                | Kone                          | Kisi jaga ka ek zaviya ya kinara. |
+| Sad                   | Udaas                         | Jab koi khush nahi hota ya pareshaan hota hai. |
+| Asked                 | Poocha                       | Kisi baat ka jawab ya maloomat lene ka amal. |
+| Yellow                | Peela                        | Ek rang jo sooraj ya aam ki tarah hota hai. |
+| Mango                 | Aam                          | Ek meetha phal jo garam mausam mein milta hai. |
+| Juicy                 | Ras bhara                    | Cheez jo ras se bhari ho, jaise ke phal. |
+| Always                | Hamesha                      | Har waqt ya aksar hone wala. |
+| Fights                | Larta                        | Kisi baat par ikhtilaf ya larna. |
+| Says                  | Kehta                        | Baat karte waqt ka amal. |
+| Very                  | Bohat                        | Kisi cheez ki shiddat ya ziyadti ka izhar. |
+| Sweet                 | Meetha                       | Cheez jo meethi hoti hai jaise cheeni ya mithai. |
+| Healthy               | Tandrust                     | Jab insaan ka jism aur zehan achi halat mein ho. |
+| People                | Log                          | Insani jamaat ya afraad. |
+| Like                  | Pasand                       | Kisi cheez ya shakhs ko achha samajhna. |
+| Eat                   | Khana                        | Khuraak ya khaane wali cheezen khana. |
+| More                  | Zyada                        | Kisi cheez ki barhawa. |
+| Fun                   | Maza                         | Khushi ya hansi ke saath waqt guzarana. |
+| Makes                 | Banata                       | Kisi cheez ko tayar karna ya shakal dena. |
+| Felt                  | Mehsoos kiya                 | Kisi baat ya halat ko dil ya zehan mein samajhna. |
+| Sorry                 | Maafi                        | Galti ko tasleem karte huye maafi maangna. |
+| Blessed               | Nawazish ki                  | Allah ki taraf se kisi cheez ka inaam ya faida milna. |
+| Allah                 | Allah (سبحانہ وتعالیٰ)       | Muslimon ke liye wahid khuda ka naam. |
+| Should                | Chahiye                      | Kisi kaam ya amal ka mashwara ya zarurat. |
+| Fight                 | Jhagda                       | Kisi baat par larna ya ikhtilaf karna. |
+| Everyone              | Har shakhs                  | Sab log ya tamam afraad. |
+| Agreed                | Mutafiq                      | Kisi baat ya faislay ko tasleem karna. |
+| Rude                  | Badtamiz                     | Jab koi acha bartao nahi karta ya bura bolta hai. |
+| Became                | Ban gaya                     | Kisi shakhs ya cheez ki halat ya shakal tabdeel hona. |
 
