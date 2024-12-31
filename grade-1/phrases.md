@@ -84,3 +84,33 @@
 | Adult brat               | Bada ziddi bacha (Zid aur khudgarzi se bhara shaks)    |
 
 
+
+### Chapter 6
+
+
+| **English Phrase**          | **Roman Urdu Meaning**                                     |
+|-----------------------------|----------------------------------------------------------|
+| One day                     | Ek din (Kisi din ka zikr karte huay)                      |
+| Fruits and vegetables       | Phal aur sabziyan (Khaane ki cheezein jo sehat ke liye achi hoti hain) |
+| Met together                | Milay ek sath (Sab log ikattha huey)                      |
+| In a basket                 | Ek tokri mein (Sab kuch ek jagah ikattha tha)            |
+| Became friends              | Dost ban gaye (Aapas mein acha rishta ban gaya)          |
+| Talking to one another      | Aapas mein baat kar rahe thay (Ek doosre se baat karna)  |
+| Sitting quietly             | Chup chap baitha (Bina awaz ke ek jagah baitha)         |
+| In a corner                 | Ek kone mein (Kisi chhoti jagah mein baitha)            |
+| Why are you sad?            | Tum udaas kyun ho? (Udaasi ka sabab poochna)            |
+| Juicy Apple                 | Ras bhara Seb (Mitha aur swadisht phal)                 |
+| Fights with me              | Mujh se jhagra karta hai (Aapas mein bura sulook karna) |
+| Sweet and healthy           | Meetha aur sehatmand (Mazedar aur sehat ke liye acha)   |
+| Makes fun of me             | Mera mazaak urata hai (Buri baat karna ya hasna)        |
+| Felt sorry                  | Afsos hua (Dukh mehsoos karna)                          |
+| Do not feel sad             | Udaas mat ho (Dilaasa dena)                             |
+| Blessed us                  | Humein nawaza (Allah ka shukriya ada karte huay kehna)  |
+| Good health                 | Achi sehat (Sehatmand rahna)                            |
+| Should not fight            | Jhagra nahi karna chahiye (Aapas mein pyar se rehna)    |
+| Everyone agreed             | Sab ne maan liya (Sab log ek rai ho gaye)              |
+| Said sorry                  | Maafi maangi (Galti par maafi chahi)                   |
+| Became friends again        | Dobara dost ban gaye (Phir se acha rishta ban gaya)    |
+
+
+
