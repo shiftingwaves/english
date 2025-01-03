@@ -97,3 +97,24 @@ Here’s your dialogue using the provided template:
 
 ---
 
+### **Chapter 7**
+
+**Tuba:** Assalaamu Alaikum. How are you, Zainab?
+(Assalaamu Alaikum. Kya haal hain Zainab kay?)
+
+**Zainab:** Wa Alaikum Assalaam. I'm fine, Tuba.
+(Wa Alaikum Assalaam. Main theek hoon, Tuba.)
+
+**Tuba:** How did your spelling competition go?
+(Tumhari spelling competition kaisi rahi?)
+
+**Zainab:** Very well. I got the second position.
+(Bahut acchi. Mujhay doosra number mila.)
+
+**Tuba:** That's great. Congratulations!
+(Yeh baat hai. Mubarak ho!)
+
+**Zainab:** Thank you!
+(Shukriya!)
+
+---
