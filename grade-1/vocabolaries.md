@@ -160,3 +160,44 @@
 | Rude                  | Badtamiz                     | Jab koi acha bartao nahi karta ya bura bolta hai. |
 | Became                | Ban gaya                     | Kisi shakhs ya cheez ki halat ya shakal tabdeel hona. |
 
+---
+
+# Chapter: 7
+
+| **English Word**       | **Roman Urdu Meaning**          | **Explanation (Roman Urdu)**                               |
+|------------------------|----------------------------------|------------------------------------------------------------|
+| morning                | Subah                            | Din ka pehla hissa jab suraj nikalta hai.                  |
+| new                    | Naya                             | Kuch jo pehle nahi tha.                                    |
+| school                 | School                           | Woh jagah jahan hum taleem hasil karte hain.                |
+| met                    | Milay                            | Kisi se mulaqat karna.                                     |
+| class                  | Class                            | Humari taleem ka group, jahan hum seekhte hain.            |
+| teacher                | Ustad                            | Woh shakhs jo humein padhata hai.                          |
+| introduce              | Mulaqat karwana                   | Apne bare mein batana.                                     |
+| students               | Talib-ilm                        | Woh bachay jo school mein taleem hasil karte hain.          |
+| explain                | Samjhana                         | Kisi cheez ko asaan tareeqay se batana.                    |
+| rules                  | Qawaid                           | Wo taqat jo humein kuch karne ya na karne ke liye guide karti hai. |
+| clean                  | Safai                           | Koi cheez jo gandagi se door ho.                           |
+| share                  | Taqseem                          | Kisi cheez ko dosray ke saath istemal karna.               |
+| respect                | Izzat                            | Kise ki ahmiyat ko samajhna aur izzat dena.                |
+| carefully              | Dhiyaan se                       | Kisi cheez ko soch samajh kar aur achi tarah se karna.     |
+| polite                 | Adab                              | Achi aur shistagi se baat karna.                           |
+| please                 | Meherbani                         | Aksar request karte waqt istemal hota hai, jaise "barah-e-karam." |
+| thank you              | Shukriya                         | Aapka shukriya ada karna jab koi madad kare.               |
+| permission             | Ijazat                           | Koi kaam karne ki ijaazat lena.                           |
+| washroom               | Toalet                           | Woh jagah jahan hum apne badan ki safai karte hain.         |
+| queue                  | Line                             | Logon ka ek silsila jahan sab apni baari ka intezaar karte hain. |
+| turn                   | Baari                             | Jab hum apni jaga par chale jate hain aur kisi aur ko apni baari ka intezaar karte hain. |
+| complete               | Mukammal                         | Kisi kaam ko pura karna.                                   |
+| break                  | Chhuti                            | School mein aik chhoti si dafa kaam se break lena.         |
+| Wa Alaikum-us-Salam    | Wa Alaikum-us-Salam              | Islam mein salaam ka jawab dene ka tareeqa.                |
+| classmates             | Saathi talib-ilm                  | Woh students jo ek saath school mein taleem lete hain.     |
+| welcome                | Khush-amadeed                    | Aapko sukoon aur izzat ke saath apnaana.                   |
+| dear                   | Pyara                            | Kisi ko izzat dena, dosti ya muhabbat ke liye istemal hota hai. |
+| things                 | Cheezein                         | Har wo cheez jo hum apni zindagi mein istemal karte hain.  |
+| listen                 | Sunna                            | Kise ki baat dhyan se sunna.                               |
+| wait                   | Intezaar                          | Apni baari ka intezaar karna.                              |
+| quietly                | Aahista                           | Dheere se, bina shor machaye.                              |
+| raise                  | Uthana                           | Haath uthana kisi kaam ke liye permission ya jawab dene ke liye. |
+| time                   | Waqt                             | Har cheez ko karne ka dauraan ya waqt.                     |
+
+
