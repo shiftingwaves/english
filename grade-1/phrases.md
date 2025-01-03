@@ -113,4 +113,38 @@
 | Became friends again        | Dobara dost ban gaye (Phir se acha rishta ban gaya)    |
 
 
+---
 
+### Chapter 7
+
+| **English Phrase**        | **Roman Urdu Meaning**       | **Roman Urdu Explanation**                                                                 |
+|---------------------------|-----------------------------|-----------------------------------------------------------------------------------------|
+| Monday morning            | Peer ki subah               | Haftay ka pehla din ki subah (The morning of the first day of the week).               |
+| new school                | Naya school                 | Aik naya taleemi idaara (A new educational institution).                                |
+| met her teacher           | Apni teacher se mili        | Apni ustaad se mulaqat ki (Met with her teacher).                                       |
+| first day                 | Pehla din                  | Kisi jaga par pehla din (The first day at a place).                                      |
+| Welcome to the school    | School mein khush aamdeed | School mein aap ko khush aamdeed kehte hain (We welcome you to the school).              |
+| new classmate             | Naya hum-jamati           | Class mein naya saathi (A new classmate in the class).                                 |
+| introduce yourselves      | Apna taaruf karayen        | Apne bare mein batayen (Tell about yourselves).                                           |
+| classroom rules           | Class ke qawaneen          | Class ke adab-o-adaab (Rules and regulations of the class).                              |
+| keep our classroom clean  | Apni class saaf rakhen    | Apni class ko gandagi se pak rakhen (Keep our class free from dirt).                    |
+| share our things           | Apni cheezain bantain      | Apni cheezain aik doosre ke saath istemal karain (Use our things with each other).      |
+| respect our teachers      | Apne teachers ki izzat karain | Apne ustaadon ka adab karain (Respect our teachers).                                    |
+| listen to our teachers carefully | Apne teachers ki baat gaur se sunain | Apne ustaadon ki baat dhayan se sunain (Listen to our teachers attentively). |
+| polite words              | Muhazzab alfaaz           | Achay aur tameez walay alfaaz (Good and respectful words).                               |
+| please                    | Meherbani                   | Iltija karne ke liye istemal hota hai (Used for making a request).                      |
+| thank you                 | Shukriya                    | Kisi ki madad ya ehsan ke liye shukriya ada karna (Expressing gratitude for help or favor). |
+| seek permission           | Ijazat lena                | Kisi kaam se pehle ijazat maangna (Asking for permission before doing something).         |
+| going to the washroom     | Washroom jaana            | Bait-ul-khala jaana (Going to the toilet).                                              |
+| drink water               | Pani peena                 | Aab noshi karna (Drinking water).                                                      |
+| wait for our turn         | Apni bari ka intezaar karain | Apni bari ka intezaar karna (Waiting for our turn).                                    |
+| queue up quietly          | Khamoshi se qatar banayen  | Chup chaap line banayen (Form a line quietly).                                          |
+| be polite                 | Muhazzab rahen             | Tameez daar rahen (Be respectful).                                                     |
+| raise your hand           | Apna haath uthayen         | Apna haath oopar karain (Raise your hand up).                                            |
+| complete your work        | Apna kaam mukammal karain | Apna kaam poora karain (Complete your work).                                            |
+| on time                   | Waqt par                   | Muqarara waqt par (At the scheduled time).                                             |
+| make a queue              | Aik qatar banayen          | Aik line banayen (Make a line).                                                           |
+| during break              | Break ke doran            | Tafreeh ke waqt (During recess).                                                          |
+| off time                  | Chutti ka waqt            | School khatam hone ka waqt (Time when school ends).                                       |
+
+---
