@@ -118,3 +118,20 @@ Here’s your dialogue using the provided template:
 (Shukriya!)
 
 ---
+
+### **Chapter 8**
+
+**Teacher:** Who wants to read today's lesson?
+(Kon aaj ka sabaq parhna chahta hai?)
+
+**Sa'ad:** Ma'am, should I read first?
+(Ma'am, kya main pehle parhun?)
+
+**Neesha:** Ma'am, should I?
+(Ma'am, kya main?)
+
+**Teacher:** No, I will call you one at a time. You have to wait for your turn.
+(Nahi, main aapko ek ek karke bulaungi. Aapko apni baari ka intezaar karna hoga.)
+
+**Students:** Okay! Ma'am.
+(Theek hai! Ma'am.)
