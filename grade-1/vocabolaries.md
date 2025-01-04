@@ -200,4 +200,46 @@
 | raise                  | Uthana                           | Haath uthana kisi kaam ke liye permission ya jawab dene ke liye. |
 | time                   | Waqt                             | Har cheez ko karne ka dauraan ya waqt.                     |
 
+---
 
+# Chapter: 8
+
+
+| English Word   | Roman Urdu Meaning   | Explanation (Roman Urdu)                          |
+|:---------------|:---------------------|:--------------------------------------------------|
+| Good-bye       | Alvida               | Jab hum kisi se juda hotay hain to kehtay hain.   |
+| Snow           | Baraf                | Asman se girnay walay safaid flakes.              |
+| Ice            | Baraf                | Jama hua pani, thanda aur sakht.                  |
+| Though         | Agarche              | Is ke bawajood ke.                                |
+| Of course      | Bilkul               | Yaqeenan, zaroor.                                 |
+| Nice           | Acha                 | Khushgawar, meharban.                             |
+| Glad           | Khush                | Masroor, khush hona.                              |
+| Gone away      | Chala gaya           | Door chala gaya, rawana ho gaya.                  |
+| Leaving        | Chod kar             | Peechay chod kar jana.                            |
+| Fine           | Acha                 | Behtareen, umda.                                  |
+| Spring         | Bahar ka mausam      | Sardiyon ke baad aur garmiyon se pehle ka mausam. |
+| Day            | Din                  | 24 ghantay ka waqt.                               |
+| Here's         | Yeh hai              | Yahan hai.                                        |
+| Good           | Acha                 | Behtreen, umda.                                   |
+| Old            | Purana               | Kafi arsay se mojood.                             |
+| Bat            | Balla                | Gend ko marnay ka auzaar.                         |
+| Ball           | Gend                 | Khel mein istemal honay wali gol cheez.           |
+| Marbles        | Goliyan              | Khel mein istemal honay wali choti goliyan.       |
+| Too            | Bhi                  | Is ke alawa.                                      |
+| How are you    | Aap kaisay hain      | Kisi ki tabiyat poochhnay ka tareeqa.             |
+| All            | Sab                  | Har koi.                                          |
+| Sure           | Yaqeen               | Pukhta yaqeen.                                    |
+| Play           | Khelna               | Tafreeh aur dil behlanay ke liye koi kaam karna.  |
+| With           | Ke sath              | Kisi ke humrah.                                   |
+| Now            | Ab                   | Is waqt.                                          |
+| 'most (almost) | Taqreeban            | Lag bhag.                                         |
+| Any            | Koi bhi              | Kisi bhi miqdaar ka.                              |
+| Winter         | Sardi ka mausam      | Saal ka sab se thanda mausam.                     |
+| True           | Sach                 | Haqeeqat ke mutabiq.                              |
+| Lots of        | Bohot sara           | Kafi miqdaar mein.                                |
+| Fun            | Maza                 | Lutf, tafreeh.                                    |
+| Shout          | Chillana             | Zor se awaaz dena.                                |
+| Sing           | Gaana                | Awaz se surili awazain nikalna.                   |
+| Because        | Kyunke               | Is liye ke.                                       |
+
+---
