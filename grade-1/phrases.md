@@ -148,3 +148,27 @@
 | off time                  | Chutti ka waqt            | School khatam hone ka waqt (Time when school ends).                                       |
 
 ---
+### Chapter 8
+
+| **English Phrase** | **Roman Urdu Meaning** |
+|---|---|
+| Good-bye, snow! | Alvida, barf! (Barf ko alvida kehna, jab mausam badalta hai) |
+| Good-bye, ice! | Alvida, baraf! (Baraf ko alvida kehna, jab mausam garam hota hai) |
+| you're very nice | aap bohat achay ho/hain (Kisi cheez ya mausam ki tareef karna) |
+| I am glad | Main khush hoon (Khushi ka izhar karna) |
+| you've gone away | aap chale gaye/gayi hain (Kisi cheez ka door chale jana) |
+| this fine spring day | yeh achha bahar ka din (Bahar ke mausam ka ek achha din) |
+| Here's my... | Yeh hai mera/meri... (Kisi cheez ko dikhana ya pesh karna) |
+| good old bat and ball | purana achha bat aur ball (Khelne ke liye purani aur pasandida cheezein) |
+| Marbles, too! | Goliyaan bhi! (Goliyon ka bhi zikr karna) |
+| How are you all? | Aap sab kaisay hain? (Sab ki hal-chal poochna) |
+| I am sure | Mujhe yaqeen hai (Yaqeen ka izhar karna) |
+| I can play | Main khel sakta/sakti hoon (Khelne ki salahiyat ka izhar karna) |
+| 'most any day | taqreeban har din (Zyada tar dinon mein) |
+| Good-bye, winter! | Alvida, sardi! (Sardi ke mausam ko alvida kehna) |
+| it's true | yeh sach hai (Sach baat ka izhar karna) |
+| I've had lots of fun | Maine bohat maza kiya (Bohat zyada maza karne ka izhar) |
+| I could shout and sing | Main cheekh aur gaa sakta/sakti hoon (Bohat khushi ka izhar karna) |
+| I'm so glad | Main bohat khush hoon (Bohat zyada khushi ka izhar karna) |
+| because it's spring | kyunke yeh bahar ka mausam hai (Bahar ke mausam ki wajah se khushi ka izhar) |
+
