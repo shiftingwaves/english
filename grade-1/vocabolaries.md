@@ -243,3 +243,42 @@
 | Because        | Kyunke               | Is liye ke.                                       |
 
 ---
+# Chapter: 9
+
+| **English Word** | **Roman Urdu Meaning** | **Explanation Roman Urdu** |
+|---|---|---|
+| Happy | Khush | Khush hona, muskurana. |
+| Making | Bana Rahe Hain | Koi cheez banana. |
+| Card | Card | Mubarakbad ya kisi aur mauqay ke liye kagaz ka tukda. |
+| Art | Fun | Tasveeren banana, rang bharna. |
+| Class | Class | School mein padhne ki jagah. |
+| Piece | Tukda | Kisi cheez ka ek hissa. |
+| Paper | Kagaz | Likhne ya drawing karne ki cheez. |
+| Folds | Modti Hai | Kagaz ko do hisson mein modna. |
+| Half | Aadha | Kisi cheez ka do baraabar hissa. |
+| Draw | Banana | Pencil ya rang se tasveer banana. |
+| Flowers | Phool | Khubsurat rangon wale pauday ka hissa. |
+| Colour | Rang | Laal, peela, neela wagera. |
+| Share | Bantna | Kisi cheez ko doosron ke saath istemaal karna. |
+| Pencils | Pencil | Likhne ya drawing karne ka auzaar. |
+| Writes | Likhta Hai | Kalam ya pencil se alfaaz likhna. |
+| Greetings | Mubarakbad | Kisi ko khush aamdeed kehna ya dua dena. |
+| Ready | Tayyar | Mukammal, istemaal ke liye tayyar. |
+| Clean | Saaf | Gandagi se pak. |
+| Table | Mez | Cheezen rakhne ki jagah. |
+| After | Ke Baad | Kisi kaam ke khatam hone ke baad. |
+| Finishing | Khatam Karna | Kisi kaam ko mukammal karna. |
+| Work | Kaam | Koi bhi kiya jaane wala kaam. |
+| Classroom | Class Ka Kamra | School mein padhne ki jagah. |
+| Wash | Dhona | Paani aur sabun se saaf karna. |
+| Hands | Haath | Jism ka woh hissa jisse hum cheezen pakadte hain. |
+| Soap | Sabun | Haath dhone ki cheez. |
+| Water | Paani | Peene aur dhone ki cheez. |
+| Give | Dena | Kisi ko koi cheez dena. |
+| Cousin | Cousin | Chacha/Phupha/Mama/Khala ka beta/beti. |
+| Before | Pehle | Kisi waqt se pehle. |
+| Likes | Pasand Karta Hai | Kisi cheez ko achha lagna. |
+| Much | Bohut | Zyada miqdaar mein. |
+| Let’s See | Chalo Dekhein | Kisi cheez ko dekhne ya jaanchne ki baat. |
+| Doing | Kar Rahe Hain | Kisi kaam mein mashgool hona. |
+
