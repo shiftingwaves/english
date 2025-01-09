@@ -134,4 +134,24 @@ Here’s your dialogue using the provided template:
 (Nahi, main aapko ek ek karke bulaungi. Aapko apni baari ka intezaar karna hoga.)
 
 **Students:** Okay! Ma'am.
-(Theek hai! Ma'am.)
+(Theek hai! Ma'am.) 
+
+---
+
+### **Chapter 9: Making a Card**
+
+**Child:** Mama, I need some things to make a greeting card for my friend.
+(Mama, mujhe kuch cheezain chahiye apne dost ke liye greeting card banane ke liye.)
+
+**Mama:** What things do you need? I will buy them.
+(Tumhe kin cheezon ki zaroorat hai? Main woh khareed loongi.)
+
+**Child:** Thank you mama, I need a chart paper, colour pencils and some stickers.
+(Shukriya mama, mujhe ek chart paper, colour pencils aur kuch stickers chahiye.)
+
+**Mama:** Okay, Make a list of these things and give it to me.
+(Theek hai, in cheezon ki ek list banao aur mujhe de do.)
+
+**Child:** Sure, mama.
+(Ji mama.)
+
