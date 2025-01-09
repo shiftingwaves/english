@@ -173,31 +173,33 @@
 | because it's spring | kyunke yeh bahar ka mausam hai (Bahar ke mausam ki wajah se khushi ka izhar) |
 
 ---
-### Chapter 8
 
-| **English Phrase** | **Roman Urdu Meaning** | **Roman Urdu Explanation** |
-|---|---|---|
-| very happy | bohat khush | (Bohat ziada khush hona) |
-| making an Eid card | Eid card bana rahe hain | (Eid ke liye card bana rahe hain) |
-| art class | art ki class | (Drawing aur painting ki class) |
-| Let's see | Chaliye dekhte hain | (Aao dekhte hain kya ho raha hai) |
-| First Step | Pehla Qadam | (Shuruati kaam) |
-| a piece of paper | ek kaghaz ka tukda | (Ek kaghaz ka hissa) |
-| folds it in half | aadha modti hai | (Kaghaz ko beech se modna) |
-| Second Step | Dusra Qadam | (Doosra kaam) |
-| draw some flowers | kuch phool banate hain | (Phoolon ki tasveer banana) |
-| colour them | un mein rang bharte hain | (Phoolon mein rang bharna) |
-| share their colour pencils | apne rang ke pencils share karte hain | (Apne rang ke pencils ek dusre ko dena) |
-| with each other | ek dusre ke saath | (Aapas mein) |
-| Third Step | Teesra Qadam | (Teesra kaam) |
-| writes 'Eid Mubarak' | 'Eid Mubarak' likhti hai | ('Eid Mubarak' likhna) |
-| writes greetings | mubarakbad likhta hai | (Mubarakbad ke alfaaz likhna) |
-| The card is ready | Card tayyar hai | (Card ban gaya hai) |
-| clean the table | table saaf karte hain | (Table ki safai karna) |
-| after finishing their work | apna kaam khatam karne ke baad | (Kaam mukammal hone ke baad) |
-| keep their classroom clean | apni class saaf rakhte hain | (Apni class ko saaf suthra rakhna) |
-| wash their hands | apne haath dhote hain | (Haathon ko dhona) |
-| with soap and water | sabun aur paani se | (Sabun aur paani ka istemal karna) |
-| give this card | yeh card dete hain | (Yeh card dena) |
-| the day before Eid | Eid se ek din pehle | (Eid se ek din qabl) |
-| She likes it very much | Use yeh bohat pasand hai | (Use yeh bohat acha laga) |
+### Chapter 9
+
+
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** |
+|---|---|---|---|---|
+| Ayyan and Maham are very happy. | Ayyan aur Maham bohat khush hain. | Ayyan and Maham are happy. | Ayyan aur Maham khush hain. | (Khush hona. Misal ke taur par, "Woh dono aaj khush hain.") |
+| making an Eid card | Eid card bana rahe hain | making a card | card bana rahe hain | (Kisi bhi occasion ke liye card banana. Misal ke taur par, "Birthday card banana.") |
+| in their art class | apni art class mein | in class | class mein | (Class mein kuch karna. Misal ke taur par, "Hum class mein parhte hain.") |
+| Let’s see what they are doing. | Chaliye dekhte hain woh kya kar rahe hain. | Let's see what they do. | Dekhte hain woh kya karte hain. | (Yeh dekhne ke liye ke woh kya kar rahe hain. Misal ke taur par, "Dekhte hain woh khelte hain.") |
+| First Step | Pehla Qadam | First | Pehla | (Sab se pehla kaam. Misal ke taur par, "Pehle yeh karo.") |
+| takes a piece of paper | ek kaghaz ka tukda leta hai | takes paper | kaghaz leta hai | (Kaghaz uthana ya lena. Misal ke taur par, "Usne kaghaz uthaya.") |
+| folds it in half | ise adha mod deta hai | folds it | ise modta hai | (Kaghaz ko adha karna. Misal ke taur par, "Kaghaz ko adha modo.") |
+| Second Step | Dusra Qadam | Second | Dusra | (Dusra kaam. Misal ke taur par, "Dusre number pe yeh karo.") |
+| draw some flowers on it | is par kuch phool banate hain | draw flowers | phool banate hain | (Phoolon ki tasveer banana. Misal ke taur par, "Copy pe phool banao.") |
+| colour them | un mein rang bharte hain | colour it | is mein rang karo | (Tasveer mein rang bharna. Misal ke taur par, "Tasveer mein laal rang karo.") |
+| share their colour pencils with each other | ek dusre ke saath apni rangin pensilein share karte hain | share pencils | pensilein share karte hain | (Apni cheezein dusron ke saath bantna. Misal ke taur par, "Apni pencil mere saath share karo.") |
+| Third Step | Teesra Qadam | Third | Teesra | (Teesra kaam. Misal ke taur par, "Teesre number pe yeh karo.") |
+| writes 'Eid Mubarak' on it | is par 'Eid Mubarak' likhta hai | writes 'Eid Mubarak' | 'Eid Mubarak' likhta hai | (Eid ki mubarakbad likhna. Misal ke taur par, "Card pe 'Happy Birthday' likho.") |
+| writes greetings on the card | card par mubarakbad likhta hai | writes on the card | card par likhta hai | (Card par kuch likhna. Misal ke taur par, "Card par apna naam likho.") |
+| The card is ready. | Card tayyar hai. | The card is done. | Card ban gaya. | (Kaam ka khatam ho jana. Misal ke taur par, "Khaana ban gaya.") |
+| clean the table | table saaf karte hain | clean the table | table saaf karte hain | (Table ko saaf karna. Misal ke taur par, "Kapde se table saaf karo.") |
+| after finishing their work | apna kaam khatam karne ke baad | after work | kaam ke baad | (Kaam khatam hone ke baad. Misal ke taur par, "Parhai ke baad khelo.") |
+| keep their classroom clean | apni class ko saaf rakhte hain | keep the classroom clean | classroom saaf rakhte hain | (Classroom ko gandagi se pak rakhna. Misal ke taur par, "Apna kamra saaf rakho.") |
+| wash their hands with soap and water | sabun aur pani se apne hath dhote hain | wash their hands | apne hath dhote hain | (Hathon ko saaf karna. Misal ke taur par, "Khana khane se pehle hath dho.") |
+| give this card to their cousin Asma | yeh card apni cousin Asma ko dete hain | give the card to Asma | card Asma ko dete hain | (Kisi ko koi cheez dena. Misal ke taur par, "Usne mujhe kitaab di.") |
+| the day before Eid | Eid se ek din pehle | before Eid | Eid se pehle | (Kisi cheez se ek din pehle. Misal ke taur par, "School se pehle tayyar ho jao.") |
+| She likes it very much. | Use yeh bohat pasand hai. | She likes it a lot. | Use yeh bohat pasand hai. | (Kisi cheez ka bohat pasand aana. Misal ke taur par, "Mujhe yeh gana bohat pasand hai.") |
+
