@@ -172,3 +172,32 @@
 | I'm so glad | Main bohat khush hoon (Bohat zyada khushi ka izhar karna) |
 | because it's spring | kyunke yeh bahar ka mausam hai (Bahar ke mausam ki wajah se khushi ka izhar) |
 
+---
+### Chapter 8
+
+| **English Phrase** | **Roman Urdu Meaning** | **Roman Urdu Explanation** |
+|---|---|---|
+| very happy | bohat khush | (Bohat ziada khush hona) |
+| making an Eid card | Eid card bana rahe hain | (Eid ke liye card bana rahe hain) |
+| art class | art ki class | (Drawing aur painting ki class) |
+| Let's see | Chaliye dekhte hain | (Aao dekhte hain kya ho raha hai) |
+| First Step | Pehla Qadam | (Shuruati kaam) |
+| a piece of paper | ek kaghaz ka tukda | (Ek kaghaz ka hissa) |
+| folds it in half | aadha modti hai | (Kaghaz ko beech se modna) |
+| Second Step | Dusra Qadam | (Doosra kaam) |
+| draw some flowers | kuch phool banate hain | (Phoolon ki tasveer banana) |
+| colour them | un mein rang bharte hain | (Phoolon mein rang bharna) |
+| share their colour pencils | apne rang ke pencils share karte hain | (Apne rang ke pencils ek dusre ko dena) |
+| with each other | ek dusre ke saath | (Aapas mein) |
+| Third Step | Teesra Qadam | (Teesra kaam) |
+| writes 'Eid Mubarak' | 'Eid Mubarak' likhti hai | ('Eid Mubarak' likhna) |
+| writes greetings | mubarakbad likhta hai | (Mubarakbad ke alfaaz likhna) |
+| The card is ready | Card tayyar hai | (Card ban gaya hai) |
+| clean the table | table saaf karte hain | (Table ki safai karna) |
+| after finishing their work | apna kaam khatam karne ke baad | (Kaam mukammal hone ke baad) |
+| keep their classroom clean | apni class saaf rakhte hain | (Apni class ko saaf suthra rakhna) |
+| wash their hands | apne haath dhote hain | (Haathon ko dhona) |
+| with soap and water | sabun aur paani se | (Sabun aur paani ka istemal karna) |
+| give this card | yeh card dete hain | (Yeh card dena) |
+| the day before Eid | Eid se ek din pehle | (Eid se ek din qabl) |
+| She likes it very much | Use yeh bohat pasand hai | (Use yeh bohat acha laga) |
