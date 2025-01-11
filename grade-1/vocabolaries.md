@@ -282,3 +282,63 @@
 | Let’s See | Chalo Dekhein | Kisi cheez ko dekhne ya jaanchne ki baat. |
 | Doing | Kar Rahe Hain | Kisi kaam mein mashgool hona. |
 
+---
+
+# Chapter: 10
+
+| English Word | Roman Urdu Meaning | Explanation Roman Urdu |
+|---|---|---|
+| One | Aik | Number 1. |
+| Day | Din | Subah se raat tak ka time. |
+| All | Sab | Saaray, tamam. |
+| Animals | Janwar | Zinda cheezein jo insan nahi hain. |
+| Jungle | Jungle | Darakhton aur podon se bhari hui jagah, jahan janwar rehte hain. |
+| Were having fun | Maza kar rahe thay | Khushi mana rahe thay. |
+| Together | Aik saath | Mil kar. |
+| Hare | Khargosh | Aik tez daudne wala janwar, lambay kaan aur choti poonch wala. |
+| Told | Bataya | Kehna, itla dena. |
+| Them | Un ko | Un logon ko. |
+| Proudly | Fakhar se | Apne aap par ya apni kisi cheez par ghuroor karna. |
+| Could | Sakta tha | Yeh batane ke liye ke koi kuch kar sakta tha. |
+| Run | Daurhna | Tez raftari se harkat karna. |
+| Very | Bahut | Bohot zyada. |
+| Fast | Tez | Jaldi. |
+| Making fun of | Mazaq urana | Kisi ka mazaq banana. |
+| Tortoise | Kachua | Aik dheere chalne wala janwar, sakht khol wala. |
+| Slow | Ahista | Dheere, kam raftaar. |
+| Speed | Raftaar | Koi cheez kitni jaldi chalti hai. |
+| Challenged | Challenge diya | Kisi ko muqabla karne ke liye kehna. |
+| Race | Daur | Yeh dekhne ke liye muqabla ke kaun tez hai. |
+| Happily | Khushi se | Khushi ke saath. |
+| Agreed | Razi hua | Haan kehna, manzoor karna. |
+| Started | Shuru hua | Shuru karna, aghaz karna. |
+| Ran | Daura | Daurhne ki purani baat. |
+| Left behind | Peeche chor diya | Kisi se peeche reh jana ya chhod dena. |
+| Much | Bahut | Bohot zyada. |
+| Time | Waqt | Ghantay, minute, second. |
+| Reach | Pahunchana | Kisi jagah par jana. |
+| Finish line | Akhri lakeer | Daur ya kisi muqable ke khatam hone ki jagah. |
+| Can | Sakta hoon | Yeh batane ke liye ke koi kuch kar sakta hai. |
+| Have some rest | Kuch aaram karoon | Kuch der ke liye aaram karna. |
+| Thought | Socha | Khayal karna. |
+| So | Is liye | Is wajah se. |
+| Slept | Soya | Neend karna. |
+| Under | Neeche | Kisi cheez ke neeche ki taraf. |
+| Tree | Darakht | Bara podha jiske patte aur shakhein hoti hain. |
+| Kept walking | Chalta raha | Lagatar chalta raha, nahin ruka. |
+| Slowly | Ahista se | Dheere se. |
+| At last | Aakhir kar | Aakhir mein. |
+| Loudly | Zor se | Oonchi awaz mein. |
+| Cheered | Khushi se na'aray lagaye | Khushi ka izhaar karna, taliyan bajana. |
+| Woke up | Uth gaya | Neend se jaag jana. |
+| Poor | Bechara | Afsosnak halat mein. |
+| To reach | Pahunchne ke liye | Kisi jagah par jane ke liye. |
+| But | Lekin | Magar. |
+| Too late | Bahut der ho gayi | Waqt nikal chuka hai, ab mumkin nahin. |
+| Was over | Paar kar gaya tha | Line ko paar kar chuka tha. |
+| Very sad | Bahut udas | Bahut ghamgeen. |
+| End | Aakhir | Khatma. |
+| Because | Kyunke | Is liye ke. |
+| Lost the match | Match haar gaya | Muqable mein haar gaya. |
+
+
