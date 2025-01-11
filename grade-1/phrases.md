@@ -203,3 +203,33 @@
 | the day before Eid | Eid se ek din pehle | before Eid | Eid se pehle | (Kisi cheez se ek din pehle. Misal ke taur par, "School se pehle tayyar ho jao.") |
 | She likes it very much. | Use yeh bohat pasand hai. | She likes it a lot. | Use yeh bohat pasand hai. | (Kisi cheez ka bohat pasand aana. Misal ke taur par, "Mujhe yeh gana bohat pasand hai.") |
 
+---
+
+# chapter 10
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** |
+|---|---|---|---|---|
+| One day | Aik din | One day | Aik din | (Kisi ek din. Misal ke taur par, "Aik din hum park gaye thay.") |
+| all the animals of the jungle | jungle ke saaray janwar | all the jungle animals | jungle ke saaray janwar | (Jungle mein rehne walay tamam janwar. Misal ke taur par, "Jungle ke saaray janwar mil kar khel rahay thay.") |
+| were having fun together | saath mein mazaa kar rahay thay | were playing together | saath mein khel rahay thay | (Mil kar khelna ya mazaa karna. Misal ke taur par, "Bachay park mein saath khel rahay thay.") |
+| A hare told them proudly | Aik khargosh ne unhein fakhar se bataya | A hare said proudly | Khargosh ne fakhar se kaha | (Fakhar se kuch kehna. Misal ke taur par, "Us ne fakhar se bataya ke woh race jeet sakta hai.") |
+| he could run very fast | woh bohat tez daur sakta hai | he can run fast | woh tez daur sakta hai | (Tez bhaagna. Misal ke taur par, "Cheetah bohat tez daur sakta hai.") |
+| making fun of a tortoise | aik kachhuay ka mazaaq ura raha tha | teasing a tortoise | kachhuay ko chera raha tha | (Kisi ka mazaaq banana ya cherhna. Misal ke taur par, "Kisi ko uski slow speed ke liye nahi cherna chahiye.") |
+| for his slow speed | uski dheemi raftar ke liye | because he is slow | kyunke woh dheema hai | (Dheemi raftar ya dheema hona. Misal ke taur par, "Kachhua dheema chalta hai.") |
+| The tortoise challenged the hare | Kachhuay ne khargosh ko challenge kiya | The tortoise asked for a race | Kachhuay ne race ke liye kaha | (Muqabla karna ya challenge karna. Misal ke taur par, "Us ne mujhe chess khelne ka challenge diya.") |
+| The hare happily agreed | Khargosh khushi se raazi ho gaya | The hare said yes | Khargosh ne haan kaha | (Khushi se kisi cheez ke liye raazi hona. Misal ke taur par, "Woh picnic pe jaane ke liye khushi se raazi ho gaya.") |
+| The race started | Race shuru hui | The race began | Race shuru hui | (Muqablay ka shuru hona. Misal ke taur par, "Three, two, one, race shuru!") |
+| The hare ran very fast | Khargosh bohat tez daura | The hare ran fast | Khargosh tez daura | (Tez bhaagna. Misal ke taur par, "Khargosh bohat tez daura aur door nikal gaya.") |
+| left the tortoise far behind | kachhuay ko bohat peechay chhor diya | went far ahead of the tortoise | kachhuay se bohat aagay nikal gaya | (Kisi se bohat aagay nikal jaana. Misal ke taur par, "Car bike se bohat aagay nikal gayi.") |
+| I have much time to reach the finish line | Mere paas finish line tak pahunchne ke liye bohat waqt hai | I have time to finish | Mere paas finish karne ka waqt hai | (Kisi kaam ko khatam karne ke liye waqt hona. Misal ke taur par, "Mere paas homework khatam karne ka waqt hai.") |
+| I can have some rest | Main kuch der aaram kar sakta hun | I can rest | Main aaram kar sakta hun | (Aaram karna. Misal ke taur par, "Thak jaane par aaram karna chahiye.") |
+| So he slept under a tree | Isliye woh aik darakht ke neechay so gaya | So he slept | Isliye woh so gaya | (So jaana. Misal ke taur par, "Raat ko sab so jatay hain.") |
+| The tortoise kept walking slowly | Kachhua dheeray dheeray chalta raha | The tortoise kept walking | Kachhua chalta raha | (Chaltay rehna. Misal ke taur par, "Mushkil waqt mein bhi chaltay rehna chahiye.") |
+| At last, he reached the finish line | Aakhirkaar, woh finish line tak pahunch gaya | Finally, he finished | Aakhirkaar woh finish kar gaya | (Kisi maqsad tak pahunch jaana. Misal ke taur par, "Mehnat karne se woh apne maqsad tak pahunch gaya.") |
+| The animals loudly cheered for the tortoise | Janwaron ne kachhuay ke liye zor se cheer kiya | The animals cheered | Janwaron ne cheer kiya | (Khushi se shor machana ya taaliyan bajana. Misal ke taur par, "Team jeetne par logon ne cheer kiya.") |
+| The hare woke up from his sleep | Khargosh apni neend se jaag gaya | The hare woke up | Khargosh jaag gaya | (Neend se bedaar hona. Misal ke taur par, "Subah suraj nikalne par main jaag gaya.") |
+| The poor hare ran to reach the finish line | Bechaara khargosh finish line tak pahunchne ke liye daura | The hare ran to finish | Khargosh finish tak daura | (Kisi maqsad tak pahunchne ke liye bhaagna. Misal ke taur par, "Bus pakarne ke liye woh daura.") |
+| but it was too late | lekin bohat der ho chuki thi | but it was late | lekin der ho gayi thi | (Waqt guzar jaana ya der ho jaana. Misal ke taur par, "School ke liye der ho gayi thi.") |
+| The tortoise was over the line | Kachhua line paar kar chuka tha | The tortoise won | Kachhua jeet gaya | (Muqabla jeetna. Misal ke taur par, "Us ne race jeet li.") |
+| The hare was very sad at the end | Khargosh aakhir mein bohat udaas tha | The hare was sad | Khargosh udaas tha | (Udaas hona. Misal ke taur par, "Imtihan mein kam number aane par woh udaas tha.") |
+| because he lost the match | kyunke woh match haar gaya tha | because he lost | kyunke woh haar gaya tha | (Muqabla haar jaana. Misal ke taur par, "Unhon ne football match haar gaya.") |
