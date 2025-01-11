@@ -98,7 +98,105 @@ C3 (i) Students ko words showing possession ka concept different examples de kar
    Example: Yeh *un ke* bachay hain. (یہ *اُن کے* بچے ہیں۔)  
    (These are *their* children.)
 
-
+video ; https://youtu.be/AiJVMNkNbQ4?si=-eus8M2tY1JUq6nB
 ___
 ---
 ---
+
+
+---
+
+## **1. "Read Me" Explanations**
+
+### **(i) Read Me (About Question Marks):**
+
+*   **English Explanation:** "We use a question mark (?) at the end of a question."  
+*   **Roman Urdu Explanation:** Jab hum koi sawal poochte hain, toh sentence ke end mein yeh nishan (?) lagate hain. Isse pata chalta hai ke yeh ek sawal hai.  
+*(When we ask a question, we put this sign (?) at the end of the sentence. This shows that it is a question.)*
+
+---
+
+
+
+
+## **2. Grammar Topics**
+
+---
+
+### **A. Question Marks (?)**
+
+**Roman Urdu Explanation:**  
+Yeh section question marks ke istemal ko seekhne ke liye hai. Hum sawal ke end par question mark lagate hain, jo yeh dikhata hai ke yeh ek sawal hai.  
+*(This section is for learning how to use question marks. We place a question mark at the end of a question to show it is a question.)*
+
+---
+
+#### **Examples:**
+
+1. **What is this? This is a car.**  
+   *(Yeh kya hai? Yeh ek gaari hai.)*  
+   - The question mark (?) is at the end of "What is this?"
+
+2. **When will Sarah come? Sarah will come on Sunday.**  
+   *(Sarah kab aaye gi? Sarah itwaar ko aaye gi.)*  
+   - The question mark (?) is at the end of "When will Sarah come?"
+
+3. **Why are you late? I missed the school bus.**  
+   *(Aap der se kyun hain? Meri school bus chhoot gayi.)*  
+   - The question mark (?) is at the end of "Why are you late?"
+
+---
+
+#### **Exercise (iv): Make two questions of your own. Remember to use question marks.**  
+*(Apne do sawal banao. Question mark lagana yaad rakho.)*
+
+**Solutions:**
+1. **What time is it?**  
+   *(Kya time hua hai?)*
+
+2. **How are you?**  
+   *(Aap kaise hain?)*
+
+---
+---
+---
+### **(ii) Read Me (About Commands):**
+
+*   **English Explanation:** "When we ask somebody to do something, it is called a command."  
+*   **Roman Urdu Explanation:** Jab hum kisi ko kuch karne ko kehte hain, toh usse command kehte hain. Jaise, "Darwaza kholo" ek command hai.  
+*(When we ask someone to do something, it is called a command. For example, "Open the door" is a command.)*
+
+### **B. Commands**
+
+**Roman Urdu Explanation:**  
+Yeh section commands ko samajhne ke liye hai. Jab hum kisi ko kuch karne ko kehte hain, toh usse command kehte hain.  
+*(This section is for understanding commands. When we ask someone to do something, it is called a command.)*
+
+---
+
+#### **Examples:**
+
+1. **Look at the board.**  
+   *(Board ki taraf dekho.)*
+
+2. **Open the door.**  
+   *(Darwaza kholo.)*
+
+3. **Stop fighting.**  
+   *(Larna band karo.)*
+
+4. **Wash your hands.**  
+   *(Apne haath dho lo.)*
+
+---
+
+#### **Exercise (vi): Tick (✓) the commands in the given sentences.**  
+*(Diye gaye sentences mein se commands pe tick (✓) lagao.)*
+
+**Solutions:**
+1. **Give me your notebook.** *(Mujhe apni copy do.)* ✓ (Command)  
+2. **You are looking good.** *(Aap ache lag rahe hain.)* (Not a command)  
+3. **Open the window.** *(Khirki kholo.)* ✓ (Command)  
+4. **What are you doing?** *(Aap kya kar rahe hain?)* (Not a command)  
+5. **Complete your homework.** *(Apna homework mukammal karo.)* ✓ (Command)
+
