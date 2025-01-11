@@ -154,4 +154,24 @@ Here’s your dialogue using the provided template:
 
 **Child:** Sure, mama.
 (Ji mama.)
+--- 
+### **Chapter 10: A Fun Race**
+
+**Hare:** Hello, little Tortoise! How are you?
+(Hello, chotay Tortoise! Aap kaisay ho?)
+
+**Tortoise:** Hi, I am fine. How are you?
+(Hi, mein theek hoon. Aap kaisay ho?)
+
+**Hare:** I am also fine. Can we play together?
+(Mein bhi theek hoon. Kya hum saath khel saktay hain?)
+
+**Tortoise:** Yes, sure. What do you want to play?
+(Haan, zaroor. Aap kya khelna chahtay hain?)
+
+**Hare:** Let's have a race. Do you like racing?
+(Chalo race kartay hain. Kya aap ko race pasand hai?)
+
+**Tortoise:** Yes, I really like it. Let's race.
+(Haan, mujhe yeh bohat pasand hai. Chalo race kartay hain.)
 
