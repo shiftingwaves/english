@@ -233,3 +233,22 @@
 | The tortoise was over the line | Kachhua line paar kar chuka tha | The tortoise won | Kachhua jeet gaya | (Muqabla jeetna. Misal ke taur par, "Us ne race jeet li.") |
 | The hare was very sad at the end | Khargosh aakhir mein bohat udaas tha | The hare was sad | Khargosh udaas tha | (Udaas hona. Misal ke taur par, "Imtihan mein kam number aane par woh udaas tha.") |
 | because he lost the match | kyunke woh match haar gaya tha | because he lost | kyunke woh haar gaya tha | (Muqabla haar jaana. Misal ke taur par, "Unhon ne football match haar gaya.") |
+
+---
+
+# chapter 11
+
+
+
+| **English Phrase (From Text)** | **Simplified/Rephrased English Phrase** | **Roman Urdu Explanation/Example** |
+|---|---|---|
+| My kitty cat is black and white. | My cat is black and white. | (Yeh batata hai ke billi ka rang kya hai. Misal ke taur par, "Dekho! Meri billi kali aur safed hai!") |
+| She sleeps all day. | She sleeps during the whole day. | (Yeh batata hai ke billi din bhar soti hai. Misal ke taur par, "Jab main school jata hun, woh pura din soti hai.") |
+| Plays all night. | She plays during the whole night. | (Yeh batata hai ke billi raat bhar khelti hai. Misal ke taur par, "Raat mein woh khilono se khelti hai, puri raat.") |
+| At dawn she knows when to be fed. | She knows it's time for food in the morning. | (Dawn matlab subah ka waqt. Fed matlab khana khilana. Misal ke taur par, "Subah hote hi billi ko pata chal jata hai ke khane ka waqt hai.") |
+| Walks atop my sleepy head. | She walks on my head when I am sleeping. | (Atop matlab upar. Sleepy head matlab sota hua sir. Misal ke taur par, "Kabhi kabhi billi mere sote hue sir pe chalti hai.") |
+| Once she finally gets her food. | When she gets her food. | (Once matlab jab. Finally matlab aakhir mein. Misal ke taur par, "Jab usko khana mil jata hai, woh khush ho jati hai.") |
+| She soon adopts a happy mood. | She becomes happy quickly. | (Soon matlab foran. Mood matlab haalat. Misal ke taur par, "Khana khate hi woh foran khush ho jati hai.") |
+| Then in the chair she likes the best. | She likes that chair very much. / That is her favorite chair. | (Likes the best matlab sab se zyada pasand. Misal ke taur par, "Woh kursi uski sab se zyada pasandida hai.") |
+| She stretches out to take a rest. | She stretches and relaxes. | (Stretches out matlab apne aap ko lambaa karna. Take a rest matlab aaram karna. Misal ke taur par, "Kursi par woh lambi ho kar aaram karti hai.") |
+
