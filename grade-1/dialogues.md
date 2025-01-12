@@ -175,3 +175,19 @@ Here’s your dialogue using the provided template:
 **Tortoise:** Yes, I really like it. Let's race.
 (Haan, mujhe yeh bohat pasand hai. Chalo race kartay hain.)
 
+---
+
+
+### **Chapter 11: Buying Books**
+
+**Uzma:** Mama, could you buy me some storybooks and colouring books?
+(Mama, kya aap mujhe kuch kahaniyon ki kitabein aur rang bharne ki kitabein khareed dengi?)
+
+**Mother:** Yes, sure!
+(Haan, zaroor!)
+
+**Uzma:** Thank you, Mama!
+(Shukriya, Mama!)
+
+**Mother:** You are welcome!
+(Koi baat nahi!)
