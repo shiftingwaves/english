@@ -544,3 +544,10 @@ Quaid-e-Azam	book
 Karachi	chair
 Allama Iqbal	tree
 Words - Opposites
+
+
+---
+
+---
+
+some notes
