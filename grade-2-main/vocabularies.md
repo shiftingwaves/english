@@ -34,3 +34,41 @@
 | country | mulk | Aik qaum ka ilaaqa. (The territory of a nation.) |
 
 ---
+# chapter 3
+
+| **English Word** | **Roman Urdu Meaning** | **Explanation Roman Urdu**                                                                      |
+|-----------------|-----------------------|-------------------------------------------------------------------------------------------------|
+| Garden          | Baagh/Baghicha        | Phool, poday aur darakhton wala maqam.                                                           |
+| Greenery        | Hariyali              | Hare rang ke poday aur darakht.                                                                 |
+| Doing           | Kar raha/rahi hai     | Koi kaam karna.                                                                                   |
+| Asks            | Poochta hai           | Sawal karna.                                                                                    |
+| Sowing          | Beej bona             | Zameen mein beej dalna.                                                                          |
+| Seed            | Beej                  | Poday ka woh hissa jis se naya poda ugta hai.                                                      |
+| Replies         | Jawaab deta hai       | Sawal ka jawab dena.                                                                           |
+| Curious         | Mutajasas/Janne ki khawahishmand | Kisi cheez ke bare mein janna chahna.                                                         |
+| Please          | Meherbani karke      | Iltija karne ke liye istemal hota hai.                                                            |
+| Tell            | Batana                | Kisi ko koi baat kehna.                                                                          |
+| Sure            | Zaroor                | Yaqeen dilane ke liye istemal hota hai.                                                            |
+| Come            | Aao                   | Kisi ko apne paas bulana.                                                                         |
+| Sit             | Baitho                | Kursi ya zameen par baithna.                                                                      |
+| Learn           | Seekhna              | Kuch naya janna.                                                                                  |
+| Says            | Kehta hai             | Bolna.                                                                                          |
+| Make            | Banana                | Koi cheez tayyar karna.                                                                         |
+| Pit             | Gaddha                | Zameen mein khoda hua chota sa hissa.                                                              |
+| Soil            | Mitti                 | Zameen ka woh hissa jis mein poday ugte hain.                                                      |
+| Spread          | Phailana             | Kisi cheez ko charon taraf bikherna.                                                              |
+| Little          | Thora/Thodi          | Kam miqdar.                                                                                       |
+| Over            | Upar                 | Kisi cheez ke oopar.                                                                             |
+| Sprinkle        | Chirkna/Chidakna     | Pani ki boondon ko phailana.                                                                      |
+| Regularly       | Baqaidagi se/Rozana  | Har roz/Baqaida waqfon se.                                                                         |
+| After           | Baad                  | Kisi waqt ke baad.                                                                                |
+| Few             | Kuch                  | Thora sa.                                                                                         |
+| Grows           | Barhta hai           | Size mein bara hona.                                                                             |
+| Turn into       | Badal jayega         | Kisi aur cheez mein tabdeel hona.                                                                   |
+| Young           | Chota/Naya          | Kam umar ka/Naya.                                                                                  |
+| Plant           | Poda                  | Zameen mein ugne wali sabzi ya phool.                                                              |
+| Take care       | Khayal rakhna       | Kisi ki dekhbhal karna.                                                                            |
+| Seedling        | Chota poda          | Naya uga hua poda.                                                                                |
+
+---
+
