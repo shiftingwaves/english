@@ -39,3 +39,26 @@
 | I love my country. | Mujhe apne mulk se pyar hai. (Mujhe apne watan se pyar hai.) |
 
 ---
+# chapter 3
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** |
+|---|---|---|---|---|
+| It is a Sunday morning. | Ye ek itwaar ki subah hai. | It is morning. | Ye subah hai. | (Subah ka waqt, misal ke taur par, "Subah ho gayi hai.") |
+| Zain is in his grandfather's garden. | Zain apne dada ke bagh mein hai. | Zain is in the garden. | Zain bagh mein hai. | (Bagh ka matlab jahan pauday ya phool lagay hoon. Misal, "Main bagh mein phool dekh raha hoon.") |
+| He loves greenery all around. | Usay har taraf hariyali pasand hai. | He loves plants. | Usay pauday pasand hain. | (Hariyali ka matlab sabz pauday ya darakht. Misal, "Mujhe darakht bohat pasand hain.") |
+| Good morning, grandfather. | Salam dada ji, subah bakhair. | Good morning. | Subah bakhair. | (Subah ka salam kehna. Misal, "Subah bakhair keh kar din ka aaghaz karte hain.") |
+| What are you doing? | Aap kya kar rahe hain? | What are you doing? | Aap kya karte ho? | (Kisi ka kaam poochhna. Misal, "Aap yahan kya kar rahe hain?") |
+| I am sowing a seed. | Main ek beej boh raha hoon. | I am planting. | Main paudha laga raha hoon. | (Beej ya paudha lagana. Misal, "Main bagh mein paudha laga raha hoon.") |
+| Can you please tell me how to sow a seed? | Kya aap mujhe beej bohnay ka tareeqa bata sakte hain? | How do you plant seeds? | Aap beej kaise lagate hain? | (Beej lagane ka tareeqa poochhna. Misal, "Beej lagane ke liye kya karte hain?") |
+| Yes, sure. Come, sit with me. | Haan, zarur. Aao, mere saath baitho. | Come and sit. | Aao aur baitho. | (Kisi ko paas bula kar bithana. Misal, "Aao, idhar baith jao.") |
+| Make a small pit in the soil. | Mitti mein chhota sa gaddha banao. | Make a hole. | Gaddha banao. | (Mitti mein gaddha banana. Misal, "Beej lagane ke liye gaddha banate hain.") |
+| Sow a seed. | Ek beej bobo. | Plant a seed. | Beej lagao. | (Beej lagana, misal, "Bagh mein beej lagao.") |
+| Spread a little soil over it. | Is par thori si mitti daal do. | Cover it with soil. | Mitti se dhak do. | (Beej ko mitti se dhakna. Misal, "Beej ko achi tarah dhak lo.") |
+| Sprinkle some water on it. | Is par thora sa pani chhidko. | Add water. | Pani daalo. | (Beej ko pani dena. Misal, "Pauday ko roz pani dete hain.") |
+| Water it regularly. | Isay rozana pani do. | Water it daily. | Roz pani do. | (Pauday ko roz pani dena zaruri hai. Misal, "Roz subah pauday ko pani do.") |
+| After a few weeks, the seed grows. | Kuch hafton baad, beej ugta hai. | The seed grows. | Beej ugta hai. | (Beej se paudha banne lagta hai. Misal, "Beej ug kar paudha ban jata hai.") |
+| It will turn into a young plant. | Ye ek chhota paudha ban jata hai. | It becomes a plant. | Ye paudha ban jata hai. | (Beej se paudha ban jata hai. Misal, "Mere lagaya beej ab paudha ban gaya hai.") |
+| Zain thanks his grandfather. | Zain apne dada ka shukriya ada karta hai. | Zain says thank you. | Zain shukriya kehta hai. | (Kisi ka shukriya ada karna. Misal, "Shukriya kehna ek acha asalaf hai.") |
+| He will take care of the seedling. | Woh beej ka khayal rakhega. | He will take care of it. | Woh iska khayal rakhega. | (Kisi cheez ka khayal rakhna. Misal, "Main apne pauday ka khayal rakhta hoon.") |
+| Water it daily. | Rozana pani do. | Water it every day. | Har din pani do. | (Roz pauday ko pani dena. Misal, "Pauday roz pani maangte hain.") |
+
