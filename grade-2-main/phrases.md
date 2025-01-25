@@ -66,22 +66,21 @@
 # chapter 4 
 
 
-| **English Phrase** | **Roman Urdu Meaning** | **Explanation/Connection to Daily Life & Poem** |
+
+| **English Phrase** | **Roman Urdu Meaning** | **Explanation (Urdu)** |
 |---|---|---|
-| A little bee | Aik choti si makhhi (Aik choti si shehad ki makhhi) | We see insects like bees. |
-| On my nose | Meri naak par (Meri naak ke upar) | We have a nose on our face. |
-| Want to sting | Dank maarna chahti hai (Chubho dena chahti hai) | Bees sting when they feel threatened. |
-| I think so | Main aisa sochta/sochti hun (Mera khayal hai) | Used when you have an opinion. |
-| A flower/rose | Aik phool/gulaab (Aik phool/gulaab ka phool) | Bees like flowers. |
-| I agree | Main sehmat hun (Main is baat se ittefaq karta/karti hun) | Used when you agree with someone. |
-| I didn't see | Maine nahi dekha (Maine nahi dekha) | Used when you missed something. |
-| A little bit | Thora sa (Thori miqdar) | "A little bit of honey." |
-| Not to sting | Dank nahi maarna (Chubho nahi dena) | Hoping the bee won't sting. |
-| A little problem | Aik choti si mushkil (Aik chota sa masla) | A bee on your nose is a little problem. |
-| Standing there | Wahan khara/khari hai (Us jagah par khara/khari hai) | "The bee is standing there." |
-| **A wicked bee** | **Aik buri/shararti makhhi** | **This introduces "wicked" as potentially harmful or troublesome in the context of the poem. It can also mean mischievous, like a naughty child.** |
-| **A wicked crouch** | **Aik buri/khatarnak jhuki hui halat** | **This is from the poem. Explain that it describes how the bee is positioned, ready to sting. It can be shown visually.** |
-| **That looks wicked!** | **Woh bura/khatarnak lag raha hai!** | **This can be used when pointing to the bee in its "crouch." It means it looks threatening or dangerous.** |
-| Will you sting? | Kya tum dank marogi? (Sawalia jumla) | Asking if the bee will sting. |
-| Ouch! | Aah! (Dard ya takleef ka izhaar) | Used when you feel pain. |
+| Oh little bee | Oh choti makhi | "Oh" hairani ya tawajjah zahir karta hai. "Little bee" choti si makhi ko kehte hain. (Oh expresses surprise or attention. "Little bee" refers to a small bee.) |
+| There on my nose | Wahan meri naak par | "There" wahan ke liye istemal hota hai. "On my nose" meri naak par. (There is used for "wahan". "On my nose" means on my nose.) |
+| You want to sting | Tum dank marna chahte ho | "You want" tum chahte ho. "To sting" dank marna. (You want means you desire. To sting means to inject venom with a stinger.) |
+| I do suppose | Main aisa sochta hun | "I do suppose" mera khayal hai ya main aisa manta hun. (I do suppose means I think or I believe.) |
+| It is your rose | Yeh tumhara gulaab hai | "It is" yeh hai. "Your rose" tumhara gulaab. (It is means this is. Your rose means your rose.) |
+| I must agree | Mujhe ittefaq karna chahiye | "I must agree" mujhe manna chahiye ya ittefaq karna chahiye. (I must agree means I should agree or I have to agree.) |
+| Did not see you | Tumhe nahi dekha | "Did not see" nahi dekha. "You" tumhe. (Did not see means didn't see. You means you.) |
+| I wanted only | Main sirf chahta tha | "I wanted" main chahta tha. "Only" sirf. (I wanted means I desired. Only means just or only.) |
+| One small sniff | Ek choti si soonh | "One" ek. "Small sniff" choti si soonh. (One means one. Small sniff means a little sniff.) |
+| And not to cause | Aur wajah nahi banana | "And not" aur nahi. "To cause" wajah banana. (And not means and not. To cause means to create or make something happen.) |
+| This little tiff | Yeh choti si takraar | "This" yeh. "Little tiff" choti si takraar ya behas. (This means this. Little tiff means a small argument or disagreement.) |
+| You stand there | Tum wahan kharay ho | "You stand" tum kharay ho. "There" wahan. (You stand means you are standing. There means there.) |
+| You won't sting me | Tum mujhe dank nahi maroge | "You won't sting" tum dank nahi maroge. "Me" mujhe. (You won't sting means you will not sting. Me means me.) |
+
 
