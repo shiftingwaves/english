@@ -72,3 +72,32 @@
 
 ---
 
+# chapter 4
+
+| **English Word** | **Roman Urdu Meaning** | **Explanation (Roman Urdu)** |
+|---|---|---|
+| Oh | O | Yeh hairat ya tawajjah zahir karta hai. (Expresses surprise or attention.) |
+| little | chota/choti | Size mein kam. (Small in size.) |
+| bee | makhhi | Aik uranay wala keera jo shehad banata hai. (A flying insect that makes honey.) |
+| There | Wahan | Kisi jagah ki taraf ishara. (Pointing to a place.) |
+| nose | naak | Chehre ka woh hissa jis se hum saans lete hain. (The part of the face we use to breathe.) |
+| want | chahna | Kisi cheez ki khwahish karna. (To desire something.) |
+| to sting | dank marna | Makhhi ya kisi aur keere ka katna. (The act of a bee or other insect piercing the skin with a stinger.) |
+| suppose | sochna/gumaan karna | Andaza lagana ya khayal karna. (To guess or think.) |
+| your | tumhara/aap ka | Kisi ke malikiyat ka izhaar. (Showing possession.) |
+| rose | gulaab | Aik khoobsurat phool. (A beautiful flower.) |
+| must | zaroor | Lazmi/chahiye. (Necessary/must.) |
+| agree | raazi hona/ittifaq karna | Kisi baat se sehmat hona. (To be in agreement with something.) |
+| Did | Kiya (past tense) | Guzre hue waqt mein koi kaam karna. (Past tense of doing something.) |
+| see | dekhna | Nazar aana. (To perceive with the eyes.) |
+| wanted | chaha (past tense) | Kisi cheez ki khwahish ki thi. (Desired something in the past.) |
+| only | sirf | Faqat/bas. (Just/only.) |
+| sniff | soonghna | Naak se saans lena taake boo mehsoos ho. (To inhale through the nose to smell something.) |
+| cause | wajah/sabab | Kisi cheez ki wajah banna. (To be the reason for something.) |
+| tiff | halki an-ban/narazgi | Choti si behas ya narazgi. (A small argument or disagreement.) |
+| stand | khara hona | Paon par khara hona. (To be on one's feet.) |
+| wicked | bura/shaitani | Shararti ya takleef deh. (Naughty or troublesome.) |
+| crouch | jhukna/dubakna | Neeche jhukna ya simatna. (To bend low or huddle.) |
+| won't | nahin karega/nahin karegi (future tense) | Mustaqbil mein nahin karna. (Will not do something in the future.) |
+
+---
