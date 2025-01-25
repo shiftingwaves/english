@@ -62,3 +62,26 @@
 | He will take care of the seedling. | Woh beej ka khayal rakhega. | He will take care of it. | Woh iska khayal rakhega. | (Kisi cheez ka khayal rakhna. Misal, "Main apne pauday ka khayal rakhta hoon.") |
 | Water it daily. | Rozana pani do. | Water it every day. | Har din pani do. | (Roz pauday ko pani dena. Misal, "Pauday roz pani maangte hain.") |
 
+---
+# chapter 4 
+
+
+| **English Phrase** | **Roman Urdu Meaning** | **Explanation/Connection to Daily Life & Poem** |
+|---|---|---|
+| A little bee | Aik choti si makhhi (Aik choti si shehad ki makhhi) | We see insects like bees. |
+| On my nose | Meri naak par (Meri naak ke upar) | We have a nose on our face. |
+| Want to sting | Dank maarna chahti hai (Chubho dena chahti hai) | Bees sting when they feel threatened. |
+| I think so | Main aisa sochta/sochti hun (Mera khayal hai) | Used when you have an opinion. |
+| A flower/rose | Aik phool/gulaab (Aik phool/gulaab ka phool) | Bees like flowers. |
+| I agree | Main sehmat hun (Main is baat se ittefaq karta/karti hun) | Used when you agree with someone. |
+| I didn't see | Maine nahi dekha (Maine nahi dekha) | Used when you missed something. |
+| A little bit | Thora sa (Thori miqdar) | "A little bit of honey." |
+| Not to sting | Dank nahi maarna (Chubho nahi dena) | Hoping the bee won't sting. |
+| A little problem | Aik choti si mushkil (Aik chota sa masla) | A bee on your nose is a little problem. |
+| Standing there | Wahan khara/khari hai (Us jagah par khara/khari hai) | "The bee is standing there." |
+| **A wicked bee** | **Aik buri/shararti makhhi** | **This introduces "wicked" as potentially harmful or troublesome in the context of the poem. It can also mean mischievous, like a naughty child.** |
+| **A wicked crouch** | **Aik buri/khatarnak jhuki hui halat** | **This is from the poem. Explain that it describes how the bee is positioned, ready to sting. It can be shown visually.** |
+| **That looks wicked!** | **Woh bura/khatarnak lag raha hai!** | **This can be used when pointing to the bee in its "crouch." It means it looks threatening or dangerous.** |
+| Will you sting? | Kya tum dank marogi? (Sawalia jumla) | Asking if the bee will sting. |
+| Ouch! | Aah! (Dard ya takleef ka izhaar) | Used when you feel pain. |
+
