@@ -63,6 +63,7 @@
 | Water it daily. | Rozana pani do. | Water it every day. | Har din pani do. | (Roz pauday ko pani dena. Misal, "Pauday roz pani maangte hain.") |
 
 ---
+
 # chapter 4 
 
 
@@ -83,4 +84,37 @@
 | You stand there | Tum wahan kharay ho | "You stand" tum kharay ho. "There" wahan. (You stand means you are standing. There means there.) |
 | You won't sting me | Tum mujhe dank nahi maroge | "You won't sting" tum dank nahi maroge. "Me" mujhe. (You won't sting means you will not sting. Me means me.) |
 
+---
 
+# chapter 5
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** |
+|---|---|---|---|---|
+| Good morning, all of you! | Subah bakhair, aap sab ko! | Good morning, everyone! | Subah bakhair, sab ko! | (Subah ka salam. Jaise, "Good morning, friends!" ya "Good morning, class!") |
+| How are you? | Aap kaise hain? | How are you? | Aap kaise hain? | (Haal poochne ke liye. Jawab: "Main theek hun." ya "I'm fine.") |
+| We are fine. Thank you. | Hum theek hain. Shukriya. | We are good. Thank you. | Hum theek hain. Shukriya. | (Theek hone aur shukriya kehne ke liye. "Teacher ne poocha 'How are you?' Toh hum ne kaha 'We are good. Thank you.'") |
+| Why are you late today? | Aaj aap dair se kyun hain? | Why are you late? | Aap dair se kyun hain? | (Dair se aane ki wajah poochne ke liye. "Aap school dair se kyun aaye?") |
+| There was an accident in the road. | Sarak par ek hadsa ho gaya tha. | There was an accident. | Ek hadsa ho gaya tha. | (Hadsa hone ki baat batane ke liye. "Car ka accident ho gaya tha.") |
+| There was a traffic jam. | Traffic jam tha. | There was much traffic. | Bohat traffic tha. | (Bohat saari gariyan road pe. "Road pe bohat gariyan theen, is liye dair ho gai.") |
+| We can avoid accidents | Hum hadson se bach sakte hain | We can stop accidents | Hum hadson ko rok sakte hain | (Hadson se bachne ke liye. "Traffic rules follow kar ke hum hadson ko rok sakte hain.") |
+| Follow traffic rules | Traffic ke qawaneen par amal karen | Follow the rules | Rules follow karo | (Traffic ke rules follow karne hain. "Red light pe rukna hai.") |
+| Traffic lights | Traffic ki battiyan | Traffic lights | Traffic lights | (Road pe lights, jo gariyan control karti hain. "Red, yellow, green lights.") |
+| Zebra crossing | Zebra crossing | Crosswalk | Paid chalne ki jagah | (Road cross karne ki safe jagah. "Zebra crossing se road cross karo.") |
+| Are used to control traffic | Traffic ko control karne ke liye istemal hoti hain | Control the cars | Gariyon ko control karta hai | (Traffic lights ka kaam. "Traffic lights gariyon ko rokne aur chalane ke liye hoti hain.") |
+| You can see them on the roads. | Aap unhe sarakon par dekh sakte hain. | You see them on roads. | Aap unhe roads pe dekhte hain. | (Traffic lights kahan hoti hain. "Traffic lights har road pe hoti hain.") |
+| Their colours are red, yellow, and green. | Unke rang surkh, peela aur sabz hain. | They are red, yellow, green. | Woh laal, peela, hara hain. | (Traffic lights ke colors. "Laal, peela, aur hara.") |
+| What do these lights mean? | In battiyon ka kya matlab hai? | What do they mean? | Unka kya matlab hai? | (Lights ka matlab poochne ke liye. "Red light ka kya matlab hai?") |
+| When the red light is on, you need to stop and wait. | Jab surkh batti jalti hai, toh aapko rukna aur intezaar karna hota hai. | Red light means stop. | Laal batti matlab ruko. | (Red light ka matlab. "Laal batti pe gari roko.") |
+| When the yellow light is on, you have to get ready. | Jab peeli batti jalti hai, toh aapko tayyar hona hota hai. | Yellow light means get ready. | Peeli batti matlab tayyar ho jao. | (Yellow light ka matlab. "Peeli batti pe chalne ke liye tayyar ho jao.") |
+| And when the green light turns on, you can go. | Aur jab sabz batti jalti hai, toh aap ja sakte hain. | Green light means go. | Hari batti matlab jao. | (Green light ka matlab. "Hari batti pe gari chalao.") |
+| Can we ignore traffic lights if we are getting late? | Kya hum traffic ki battiyon ko nazar andaz kar sakte hain agar humein dair ho rahi ho? | Can we not follow the lights? | Kya hum lights follow nahi kar sakte? | (Lights follow karna zaroori hai. "Lights follow karna zaroori hai, dair ho ya na ho.") |
+| We should never do so. | Humein aisa kabhi nahi karna chahiye. | We should not do that. | Humein aisa nahi karna chahiye. | (Rules todna galat hai. "Humein kabhi rules nahi todne chahiye.") |
+| We can travel safely | Hum mehfooz safar kar sakte hain | We can be safe | Hum safe reh sakte hain | (Rules follow karne se hum safe rehte hain. "Rules follow karne se hum safe rehte hain.") |
+| When we are on the road. | Jab hum sarak par hote hain. | When we are on the road | Jab hum road pe hote hain | (Road pe hote waqt. "Jab hum road pe hote hain, careful rehna chahiye.") |
+| What is transport? | Transport kya hai? | What is transport? | Transport kya hai? | (Transport kya hota hai? "Transport matlab cheezon aur logon ko ek jagah se dusri jagah le jana.") |
+| Takes people and goods from one place to another. | Logon aur saman ko ek jagah se dusri jagah le jata hai. | Moves people and things | Logon aur cheezon ko le jata hai | (Transport ka kaam. "Bus logon ko le jati hai, truck cheezon ko.") |
+| Cars, buses, rickshaws, motorbikes, trains, ships, and aeroplanes are all types of transport. | Gariyan, busen, rickshaw, motorbike, train, jahaz aur hawai jahaz sab transport ki iqsam hain. | Cars, buses, etc. are transport. | Gariyan, buses wagera transport hain. | (Different types of transport. "Car, bus, train, sab transport hain.") |
+| Thank you, teacher, for sharing this information. | Yeh maloomat dene ke liye shukriya, teacher. | Thank you, teacher. | Shukriya, teacher. | (Teacher ka shukriya. "Yeh sikhane ke liye shukriya, teacher.") |
+| You are welcome. | Aap ka khair maqdam hai. | You are welcome. | Koi baat nahi. | (Shukriya ka jawab. "Koi baat nahi.") |
+
+---
