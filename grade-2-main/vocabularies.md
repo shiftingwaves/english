@@ -101,3 +101,53 @@
 | won't | nahin karega/nahin karegi (future tense) | Mustaqbil mein nahin karna. (Will not do something in the future.) |
 
 ---
+
+# chapter 5
+
+
+| **English Word** | **Roman Urdu Meaning** | **Explanation Roman Urdu** |
+|---|---|---|
+| Good morning | Subah bakhair | Din ki shuruat mein salam karne ka tareeka. |
+| All | Sab | Tamaam log ya cheezein. |
+| How are you? | Aap kaise hain? | Kisi ka haal poochhne ka tareeka. |
+| Fine | Theek | Achha ya sehatmand. |
+| Late | Dair | Waqt ke baad aana. |
+| Today | Aaj | Yeh din. |
+| Accident | Hadsa | Koi anjaani ghatna jis se nuqsan ho sakta hai. |
+| Traffic jam | Traffic ki rukawat | Gaadiyon ki lambi line jo aage nahi barh pa rahi hoti. |
+| Sad | Udaas | Gamgeen. |
+| Avoid | Bachna | Kisi cheez se door rehna. |
+| Follow | Pairwi karna | Kisi cheez ke peeche chalna ya us par amal karna. |
+| Rules | Qawaid | Kanoon ya dastoor jin par amal karna zaroori hai. |
+| Traffic rules | Traffic ke qawaid | Sarak par gaadi chalane ke qawaid. |
+| Traffic lights | Traffic ki battiyan | Sarak par traffic control karne wali battiyan. |
+| Zebra crossing | Zebra crossing | Sarak par paidal chalne walon ke liye bani hui white lines. |
+| Control | Qaboo karna | Kisi cheez ko apne control mein rakhna. |
+| See | Dekhna | Aankhon se nazar aana. |
+| Mean | Matlab | Kisi cheez ka maqsad ya matlab. |
+| Stop | Rukna | Chalna band karna. |
+| Wait | Intezaar karna | Kisi cheez ka intezaar karna. |
+| Ready | Tayyar | Mustaid. |
+| Go | Jaana | Chalna shuru karna. |
+| Ignore | Nazar andaz karna | Kisi cheez par tawajjuh na dena. |
+| Getting late | Dair ho rahi hai | Waqt guzar raha hai aur dair ho rahi hai. |
+| Never | Kabhi nahi | Kisi bhi waqt nahi. |
+| Always | Hamesha | Har waqt. |
+| Signals | Ishaaray | Traffic lights ke isharay. |
+| Travel | Safar karna | Ek jagah se doosri jagah jaana. |
+| Safely | Mehfooz tareeqay se | Kisi khatre ke baghair. |
+| Transport | Aamad o raft | Logon aur cheezon ko ek jagah se doosri jagah le jaane ka zariya. |
+| Goods | Samaan | Cheezein. |
+| Place | Jagah | Maqam. |
+| Another | Doosri | Ek aur. |
+| Motorbikes | Motorcycle | Do pahiye wali gaadi. |
+| Trains | Rail gariyan | Patri par chalne wali gariyan. |
+| Ships | Jahaz | Paani par chalne wale bade zariye. |
+| Aeroplanes | Hawai jahaz | Hawa mein udne wale zariye. |
+| Sharing | Bantna | Kisi cheez ko doosron ke saath baantna. |
+| Information | Maloomat | Khabar ya jaankari. |
+| Welcome | Khush aamdeed | Kisi ka istaqbal karna. |
+
+---
+
+---
