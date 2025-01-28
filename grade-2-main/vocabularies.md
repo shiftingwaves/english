@@ -194,3 +194,61 @@
 | honesty               | Imandari                         | Sachchai                                          |
 
 ---
+
+# chapter 7
+
+| **English Word** | **Roman Urdu Meaning** | **Explanation (Roman Urdu)** |
+|---|---|---|
+| February | Farvari | Saal ka doosra mahina. |
+| Annual | Salana | Har saal honay wala. |
+| Sports Day | Khelon ka Din | School mein khelon ka ek din. |
+| Attended | Shirkat ki | Gaya tha, maujood tha. |
+| School | School | Taleem hasil karne ki jagah. |
+| Got up | Utha | Bistar se khada hua. |
+| O'clock | Bajay | Time batane ka tareeqa. |
+| Morning | Subah | Din ka shuru ka waqt. |
+| Brushed | Brush kiya | Danton ko saaf kiya. |
+| Teeth | Daant | Munh ke andar ke safed hissay. |
+| Wore | Pehna | Kapray pehne. |
+| Sports kit | Khelon ke kapray | Khelon ke liye khaas kapray. |
+| Mother | Ammi | Maa. |
+| Father | Abba | Baap. |
+| Waiting | Intezaar kar rahe thay | Kisi ka intezaar karna. |
+| Greeted | Salam kiya | Salam kiya, adab se mila. |
+| Breakfast | Nashta | Subah ka khana. |
+| Wished | Dua di | Khair khuwaahi ki. |
+| Success | Kamyabi | Jeetna. |
+| Competing | Muqabla karna | Doosron se aage nikalne ki koshish karna. |
+| Sack race | Bori race | Bori mein pair daal kar bhagna. |
+| Thanked | Shukriya kiya | Ahsan mand hua. |
+| Left | Chala gaya | Gaya. |
+| Building | Imarat | Ghar, makan. |
+| Colorful | Rangeen | Kai rangon ka. |
+| Flags | Jhanday | Mulk ya team ka nishan. |
+| Instructions | Hidayat | Bataya gaya kaam kaise karna hai. |
+| Noticeboard | Notice board | Information lagane ki jagah. |
+| Guests | Mehman | Log jo ghar aate hain. |
+| Players | Khiladi | Khelne wale log. |
+| Excited | Khush | Bohut khush. |
+| Taking part | Hissa le rahe thay | Khel mein shaamil hona. |
+| Games | Khel | Football, cricket jaise. |
+| Football | Football | Ek khel. |
+| Cricket | Cricket | Ek khel. |
+| Hurdle race | Baadha race | Race jismein rukawaten hoti hain. |
+| Musical chair | Musical chair | Ek khel. |
+| Teacher | Ustad | Parhanay wala. |
+| Ready | Tayyar | Taiyar. |
+| Lined up | Line mein lag gaye | Ek line mein khade ho gaye. |
+| Sacks | Boriyaan | Bori. |
+| Started | Shuru hua | Start hua. |
+| Ran | Bhaga | Dauda. |
+| Fast | Tez | Jaldi. |
+| Won | Jeeta | Kamyab hua. |
+| Friends | Dost | Saathi. |
+| Happy | Khush | Khush. |
+| Allah | Allah | Khuda. |
+| Principal | Principal | School ka bada afsar. |
+| Trophy | Trophy | Inaam. |
+| Great | Bohut acha | Bohut behtareen. |
+| Day | Din | Roz. |
+
