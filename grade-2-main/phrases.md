@@ -162,3 +162,46 @@
 | For his honesty. | Uski imandari ke liye. | For being honest. | Imandar rehne ke liye. | (Sach bolne ke liye.) |
 
 ---
+# chapter 7
+
+| **English Phrase** | **Roman Urdu Meaning** |
+|---|---|
+| It was February 12, 2020. | Yeh 12 February, 2020 tha. (Yeh tareekh thi.) |
+| I attended Annual Sports Day. | Main school ke saalani sports day par gaya/gayi tha. (Main khelon ke din gaya/gayi.) |
+| at my school | Mere school mein |
+| I got up at 7 o'clock. | Main 7 baje uth gaya/gayi. (Subah 7 baje uthna.) |
+| in the morning | Subah |
+| I brushed my teeth. | Main ne apne daant saaf kiye. (Main ne daant brush kiye.) |
+| I wore my sports kit. | Main ne apna sports kit pehna. (Main ne khelne ke kapde pehne.) |
+| My mother and father were waiting. | Meri ammi aur abbu intezaar kar rahe thay/rahi theen. (Ammi abbu mera intezaar kar rahe thay.) |
+| I greeted them. | Main ne unko salam ki. (Main ne unse milke salaam kiya.) |
+| and had my breakfast. | Aur nashta kiya. (Subah ka khana khaya.) |
+| They both wished me success. | Un dono ne mujhe kamyabi ki dua di. (Unhon ne kaha ke tum jeeto.) |
+| because I was competing in a sack race. | Kyun ke main boray ki race mein hissa le raha tha/rahi thi. (Main boray mein daal kar bhagne ki race kar raha tha/rahi thi.) |
+| I thanked them. | Main ne unka shukriya ada kiya. (Main ne unka shukriya kaha.) |
+| and left for school. | Aur school ke liye chala gaya/chali gayi. (Main school gaya/gayi.) |
+| There were different colourful flags. | Wahan rang-birange jhanday lage thay. (Wahan rangon wale jhanday thay.) |
+| on my school building | Mere school ki building par |
+| There were instructions written. | Wahan hidayat likhi hui thi. (Wahan likha tha kya karna hai.) |
+| on the noticeboard | Noticeboard par |
+| for guests and players | Mehmanon aur khiladiyon ke liye |
+| We all were very excited. | Hum sab bohot excited thay. (Hum sab bohot khush thay.) |
+| Students were taking part. | Bachay hissa le rahe thay. (Bachay khel rahe thay.) |
+| in different games | Alag alag khelon mein |
+| like football, cricket, hurdle race, musical chair, etc. | Jaise football, cricket, hurdle race, musical chair waghera. (Football, cricket, musical chair, aur doosre khel.) |
+| After sometime | Thodi der baad |
+| a teacher told us | Ek teacher ne humein bataya |
+| to get ready | Tayyar ho jao |
+| for the sack race | Boray ki race ke liye |
+| We all lined up. | Hum sab line mein lag gaye. (Hum sab ek line mein khade ho gaye.) |
+| with our sacks | Apne boron ke saath |
+| Soon, the race started. | Jaldi hi race shuru ho gayi. (Race shuru ho gayi.) |
+| I ran very fast. | Main bahut tez bhaga/bhagi. (Main tez dauda/daudi.) |
+| I won the race. | Main race jeet gaya/gayi. (Main jeet gaya/gayi.) |
+| My friends were very happy for me. | Mere dost mere liye bahut khush thay. (Mere dost mujh se khush thay.) |
+| I thanked Allah. | Main ne Allah ka shukriya ada kiya. (Maine Allah ka shukriya kiya.) |
+| for my success | Meri kamyabi ke liye |
+| My principal gave me a trophy. | Mere principal ne mujhe trophy di. (Principal ne mujhe inaam diya.) |
+| It was a great day. | Yeh bohot acha din tha. (Aaj ka din bohot acha tha.) |
+
+---
