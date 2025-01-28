@@ -150,4 +150,47 @@
 
 ---
 
+# chapter 6
+
+| **English Word**      | **Roman Urdu Meaning**           | **Explanation Roman Urdu**                        |
+|-----------------------|-----------------------------------|-----------------------------------------------------|
+| friends               | Dost                             | Saathi, yaari                                     |
+| classmates            | Hum Jamati                       | Class mein saath padhne wale                         |
+| waiting               | Intezaar kar rahe thay           | Ruk rahe thay                                     |
+| showing               | Dikha rahe thay                   | Numaish kar rahe thay                             |
+| things                | Cheezein                         | Ashya                                             |
+| many                  | Bohat                            | Zyada                                             |
+| beautiful             | Khubsurat                        | Haseen                                            |
+| liked                 | Pasand aaya                       | Acha laga                                          |
+| wished                | Khwahish ki                       | Chaha                                             |
+| too                   | Bhi                              |  Aur                                              |
+| just then             | Tabhi                           | Usi waqt                                         |
+| came in               | Andar aa gaye                     | Daakhil hue                                       |
+| quickly               | Jaldi se                         | Foran                                             |
+| put                   | Rakh diye                         | Rakhe                                             |
+| back                  | Wapis                           | Phir                                              |
+| cases                 | Dibbe                            | Khane                                             |
+| evening               | Shaam                            | Raat se pehle ka waqt                             |
+| sat down              | Baith gaya                        | Beth gaya                                          |
+| homework              | Ghar ka kaam                    | Wajib ul ada kaam                                  |
+| opened                | Khola                            | Wa kiya                                           |
+| school bag            | School ka basta                   | School ki thaili                                |
+| pencil box            | Pencil ka dabba                    | Pencil rakhne ka khana                            |
+| happy                 | Khush                            | Masroor                                          |
+| ran                   | Bhaga                            | Doura                                             |
+| look                  | Dekho                            | Nazar karo                                        |
+| mistake               | Galti                            | Bhool                                             |
+| won't                | Nahin karunga                    | Nahi karoon ga                                    |
+| said                  | Kaha                             | Bola                                              |
+| told                  | Bataya                           | Kaha                                              |
+| wrong                 | Ghalat                           | Ashudd                                            |
+| somebody's            | Kisi ki                           | Kisi aur ki                                       |
+| without permission    | Bina ijazat ke                   | Baghair ijazat                                    |
+| realised              | Ehsaas hua                       | Maloom hua                                        |
+| next morning          | Agli subah                       | Dusre din subah                                 |
+| went                  | Gaya                             | Chala gaya                                        |
+| returned              | Wapis kiya                       | Lautaya                                           |
+| praised               | Tareef ki                        | Saraha                                            |
+| honesty               | Imandari                         | Sachchai                                          |
+
 ---
