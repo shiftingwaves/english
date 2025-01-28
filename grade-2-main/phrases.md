@@ -118,3 +118,47 @@
 | You are welcome. | Aap ka khair maqdam hai. | You are welcome. | Koi baat nahi. | (Shukriya ka jawab. "Koi baat nahi.") |
 
 ---
+
+
+# chapter 6
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** |
+|---|---|---|---|---|
+| Asim and Kaleem are friends. | Asim aur Kaleem dost hain. | Friends. | Dost. | (Dost means friend.  Ali mera dost hai.) |
+| They are also classmates. | Woh hum jamati bhi hain. | Same class. | Ek hi class. | (Ek hi class mein padhte hain.) |
+| One day... | Ek din... | One day... | Ek din... | (Ek din, school gaye.) |
+| ...in the class... | ...class mein... | In class. | Class mein. | (Class mein padhte hain.) |
+| ...waiting for their teacher. | ...teacher ka intezaar kar rahe thay. | Waiting for teacher. | Teacher ka intezaar. | (Teacher aane wale hain.) |
+| Showing each other erasers. | Ek dusre ko erasers dikha rahe thay. | Showing erasers. | Erasers dikha rahe hain. | (Eraser se mitate hain.) |
+| Colour pencils. | Colour pencils. | Colour pencils. | Colour pencils. | (Colour pencils se drawing karte hain.) |
+| Other things. | Doosri cheezein. | Other things. | Aur cheezein. | (Kitab, pencil, etc.) |
+| Many beautiful erasers. | Bahut saare khoobsurat erasers. | Many nice erasers. | Bahut achche erasers. | (Achche erasers, different colours.) |
+| Kaleem liked them. | Kaleem ko woh pasand aaye. | Kaleem liked them. | Kaleem ko pasand aaye. | (Kaleem ko achcha laga.) |
+| He wished he had them. | Usne chaha ke woh bhi uske paas hotein. | He wanted them. | Uske paas bhi hote. | (Kaleem ko bhi chahiye thay.) |
+| Teacher came in. | Teacher aa gaye. | Teacher came. | Teacher aa gaye. | (Teacher class mein aa gaye.) |
+| Put erasers back. | Erasers wapis rakh diye. | Put erasers back. | Erasers wapis. | (Erasers bag mein wapis.) |
+| In the evening. | Shaam mein. | In the evening. | Shaam mein. | (Jab andhera hota hai.) |
+| Kaleem sat down. | Kaleem baith gaya. | Kaleem sat down. | Kaleem baith gaya. | (Homework karne ke liye.) |
+| To do his homework. | Apna homework karne ke liye. | To do homework. | Homework karne ke liye. | (School ka kaam.) |
+| Opened his school bag. | Apna school bag khola. | Opened his bag. | Bag khola. | (Bag mein dekha.) |
+| Asim's pencil box. | Asim ka pencil box. | Asim's pencil box. | Asim ka pencil box. | (Pencil box mein pencils hain.) |
+| Kaleem was happy. | Kaleem khush hua. | Kaleem was happy. | Kaleem khush hua. | (Box dekh kar.) |
+| Ran to his mother. | Apni mother ke paas bhaga. | Ran to mom. | Ammi ke paas bhaga. | (Ammi ko dikhane ke liye.) |
+| "Look, mother!" | "Dekho, mother!" | "Look, mom!" | "Dekho, ammi!" | (Pencil box mila.) |
+| This is Asim's. | Yeh Asim ka hai. | It's Asim's. | Yeh Asim ka hai. | (Asim ka pencil box.) |
+| In my bag. | Mere bag mein. | In my bag. | Mere bag mein. | (Galti se aa gaya.) |
+| By mistake. | Galti se. | By mistake. | Galti se. | (Maine nahin rakha.) |
+| Won't give it back. | Wapis nahin dunga. | Won't give it back. | Wapis nahin. | (Main rakh lunga.) |
+| Mother told him. | Mother ne bataya. | Mom said. | Ammi ne bataya. | (Yeh galat hai.) |
+| It was wrong. | Yeh galat tha. | It was wrong. | Yeh galat tha. | (Chori karna galat hai.) |
+| Somebody's things. | Kisi ki cheezein. | Other's things. | Doosron ki cheezein. | (Bina pooche nahin lete.) |
+| Without permission. | Bina ijazat ke. | Without asking. | Bina pooche. | (Poochna chahiye.) |
+| Kaleem realised. | Kaleem ko ehsaas hua. | Kaleem knew. | Kaleem ko pata chala. | (Yeh galat hai.) |
+| Next morning. | Agli subah. | Next morning. | Agli subah. | (School gaya.) |
+| Went to Asim. | Asim ke paas gaya. | Went to Asim. | Asim ke paas gaya. | (Pencil box wapis dene.) |
+| Returned the pencil box. | Pencil box wapis diya. | Gave back the box. | Box wapis diya. | (Asim ko diya.) |
+| Asim was happy. | Asim khush hua. | Asim was happy. | Asim khush hua. | (Pencil box mil gaya.) |
+| Praised Kaleem. | Kaleem ki tareef ki. | Said thanks. | Shukriya kaha. | (Honest hone ke liye.) |
+| For his honesty. | Uski imandari ke liye. | For being honest. | Imandar rehne ke liye. | (Sach bolne ke liye.) |
+
+---
