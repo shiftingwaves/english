@@ -139,7 +139,8 @@
 (Bohat shukriya.)  
 
 <hr style="height:3px; border:none; background-color:white;" /> 
-## **Chapter 7: Class Introduction**
+
+# **Chapter 7: Class Introduction**
 
 **Teacher:** Welcome to the class. Please introduce yourself to the class.  
 (Class mein khush aamdeed. Barah-e-karam apna taaruf karwaiye.)  
@@ -154,7 +155,8 @@
 (Haan. Mujhe bohot acha lagega.)  
 
 <hr style="height:3px; border:none; background-color:white;" /> 
-## **Chapter 8: Asking Permission**
+
+# **Chapter 8: Asking Permission**
 
 **Student:** Miss, may I ask something, please?  
 (Miss, kya main kuch poochh sakti hoon?)  
@@ -170,7 +172,7 @@
 
 <hr style="height:3px; border:none; background-color:white;" />  
 
-## **Chapter 9: Preparing for a School Party**
+# **Chapter 9: Preparing for a School Party**
 
 **Mother:** What do you need for your school party?  
 (Tumhe apni school party ke liye kya chahiye?)  
