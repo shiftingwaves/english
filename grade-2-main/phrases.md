@@ -205,3 +205,19 @@
 | It was a great day. | Yeh bohot acha din tha. (Aaj ka din bohot acha tha.) |
 
 ---
+# chapter 8
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** |
+|---|---|---|---|---|
+| I've got a brand-new lunchbox. | Mere paas bilkul naya lunchbox hai. | I have a new lunchbox. | Mere paas ek naya lunchbox hai. | (Naya lunchbox matlab taza ya bilkul naya. Misal: "Mera naya lunchbox laal rang ka hai." - My new lunchbox is red.) |
+| My shoes are shiny clean. | Mere jootay chamakdar saaf hain. | My shoes are clean. | Mere jootay saaf hain. | (Saaf matlab gandagi se pak.  Misal: "Mere kapray bhi saaf hain." - My clothes are also clean.) |
+| I’ve got a cool, new bookbag. | Mere paas ek cool, naya bookbag hai. | I have a cool, new bag. | Mere paas ek cool, naya bag hai. | (Cool yahan pe acha ya pyara ke maane mein hai. Misal: "Mera naya bag blue hai." - My new bag is blue.) |
+| And a pencil box that’s green. | Aur ek pencil box jo ke hara hai. | And a green pencil box. | Aur ek hara pencil box. | (Hara matlab green color. Misal: "Patay bhi harray hotay hain." - Leaves are also green.) |
+| But I don’t know my teacher. | Lekin main apne teacher ko nahin janta/janti. | But I don't know my teacher. | Lekin main apne teacher ko nahin janta/janti. | (Teacher woh hota/hoti hai jo humay parhatay/parhati hain. Misal: "Meri teacher achi hain." - My teacher is good.) |
+| Or where my desk will be. | Ya mera desk kahan hoga. | Or where my desk is. | Ya mera desk kahan hai. | (Desk woh jagah hai jahan hum beth ke parhtay hain. Misal: "Mera desk classroom mein hai." - My desk is in the classroom.) |
+| I don’t know if I’ll like the kids. | Main nahin janta/janti ke mujhe bachay pasand aayen ge ya nahin. | I don't know if I will like the kids. | Main nahin janta/janti ke mujhe bachay pasand aayen ge. | (Kids matlab bachay. Misal: "Bachay khel rahay hain." - The kids are playing.) |
+| Or if they’ll play with me. | Ya woh mere saath khelen ge ya nahin. | Or if they will play with me. | Ya woh mere saath khelen ge. | (Play matlab khelna. Misal: "Hum sab dost hain aur hum sath mein kheltay hain." - We are all friends and we play together.) |
+| I peek inside my classroom. | Main apne classroom ke andar jhankta/jhankti hun. | I look inside my classroom. | Main apne classroom ke andar dekhta/dekhti hun. | (Peek matlab jhankna ya dheere se dekhna. Misal: "Maine darwazay se andar jhank ke dekha." - I peeked through the door.) |
+| I stand there for a while. | Main wahan kuch der ke liye khara/khari rehta/rehti hun. | I stand there for a bit. | Main wahan thodi der ke liye khara/khari rehta/rehti hun. | (For a while matlab thodi der ke liye. Misal: "Main yahan thodi der ke liye hun." - I am here for a while.) |
+| My teacher’s tall and kind of loud. | Mere teacher lambay aur thode se tez awaz wale hain. | My teacher is tall and a bit loud. | Mere teacher lambay aur thode se unchi awaz wale hain. | (Tall matlab lamba. Loud matlab unchi awaz. Misal: "Mera dost lamba hai." - My friend is tall. "Woh zor se baat karta hai." - He speaks loudly.) |
+| But has a great big smile. | Lekin unke chehray per bohat bari muskurahat hai. | But they have a big smile. | Lekin unke chehray per bari muskurahat hai. | (Smile matlab muskurahat. Misal: "Woh hamesha muskurati rehti hain." - She always smiles.) |
