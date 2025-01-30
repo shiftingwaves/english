@@ -252,3 +252,37 @@
 | Great | Bohut acha | Bohut behtareen. |
 | Day | Din | Roz. |
 
+---
+# chapter 8
+Here's the table you provided, displayed in a neat format:
+
+| **English Word** | **Roman Urdu Meaning**  | **Explanation Roman Urdu**  |
+|------------------|-------------------------|-----------------------------|
+**| brand-new        | bilkul naya             | Bilkul naya matlab, abhi abhi liya hua ya bana hua.  |**
+| lunchbox         | lunch ka dabba           | Lunch ka dabba woh hota hai jismein aap apna dopahar ka khana le jaate hain. |
+| shoes            | joote                   | Joote pairon mein pehne jaate hain, chalne aur phirne ke liye. |
+| shiny            | chamakdar               | Shiny ka matlab hai jo cheez roshan aur chamak rahi ho. |
+| clean            | saaf                    | Saaf ka matlab hai dhula hua, gandagi se pak. |
+| cool             | achha, shandaar          | Cool ke kai matlab hote hain, jaise achha, thanda, ya shandaar. |
+| new              | naya                    | Naya ka matlab hai jo cheez pehle se nahin thi, abhi bani hai. |
+| bookbag          | kitaab rakhne ka bag    | Bookbag woh bag hota hai jismein aap apni kitaben aur school ka samaan le jaate hain. |
+| pencil           | pencil                  | Pencil ek cheez hai jisse aap likhte ya drawing karte hain. |
+| box              | dabba                   | Dabba kisi cheez ko rakhne ke liye hota hai. |
+| green            | hara                    | Green ek rang hai, jaise ghaas ka rang. |
+| teacher          | ustad/ustani            | Teacher woh hota hai jo aapko padhata hai. |
+| desk             | mez                     | Desk ek table hai jispe aap likhte ya padhte hain. |
+| like             | pasand karna            | Like ka matlab hai kisi cheez ko achha lagna. |
+| kids             | bachche                 | Kids ka matlab hai chhote bachche. |
+| play             | khelna                  | Play ka matlab hai games khelna ya masti karna. |
+| peek             | jhaankna                | Peek ka matlab hai chupke se ya thoda sa dekhna. |
+| inside           | andar                   | Inside ka matlab hai kisi cheez ke bheetar. |
+| classroom        | class kamra             | Classroom woh kamra hota hai jahan aap padhne jaate hain. |
+| stand            | khada hona              | Stand ka matlab hai pairon pe seedha khada hona. |
+**| while            | der tak                 | While ka matlab hai kuch der ke liye. |**
+| tall             | lamba                   | Tall ka matlab hai ooncha. |
+| kind of          | thoda sa                | Kind of ka matlab hai thoda sa. |
+| loud             | oonchi awaaz mein       | Loud ka matlab hai tez awaaz mein. |
+| great            | bahut bada, shandaar    | Great ka matlab hai bahut bada ya shandaar. |
+| big              | bada                    | Big ka matlab hai bada. |
+| smile            | muskurahat              | Smile ka matlab hai hansi, jab aap khush hote hain to aap smile karte hain. |
+
