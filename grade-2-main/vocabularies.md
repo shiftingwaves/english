@@ -286,3 +286,40 @@ Here's the table you provided, displayed in a neat format:
 | big              | bada                    | Big ka matlab hai bada. |
 | smile            | muskurahat              | Smile ka matlab hai hansi, jab aap khush hote hain to aap smile karte hain. |
 
+---
+# chapter 9
+
+| **English Word**      | **Roman Urdu Meaning**           | **Explanation Roman Urdu**                        |
+|-----------------------|-----------------------------------|-----------------------------------------------------|
+| Ago                   | Pehlay, Guzra Hua Zamana          | Bohut purana waqt. Misal: "Long ago" matlab "bohut pehlay." |
+| Lived                 | Rehta Tha, Rahaish Rakhna          | Kahin pe rehna. Misal: "He lived in a house." matlab "Woh aik ghar mein rehta tha." |
+| Loved                 | Pyar Kiya, Mohabbat Ki            | Kisi se mohabbat karna. Misal: "I loved my toys." matlab "Mujhe apne khilone pasand thay." |
+| Very Much             | Bohut Zyada                       | Bohat. Misal: "I love you very much." matlab "Main tumse bohat pyar karta hun." |
+| One Day               | Aik Din                           | Kisi ek din. Misal: "One day I went to school." matlab "Aik din main school gaya tha." |
+| Became                | Ho Gaya, Ban Gaya                  | Kuch ban jana. Misal: "He became a doctor." matlab "Woh doctor ban gaya." |
+| Ill                   | Bimar                             | Mareez. Misal: "I am ill." matlab "Main bimar hun." |
+| Stay                  | Rehna                             | Kahin thaharna. Misal: "Stay at home." matlab "Ghar par raho." |
+| Bed                   | Bistar                            | Sone ki jagah. Misal: "I sleep in my bed." matlab "Main apne bistar mein sota hun." |
+| Night                 | Raat                              | Din ka ulta. Misal: "Good night." matlab "Shab bakhair." |
+| Called Out            | Pukara, Awaz Di                    | Kisi ko bulana. Misal: "She called out my name." matlab "Usne mera naam pukara." |
+| Bring                 | Lao, Le Aao                       | Koi cheez lana. Misal: "Bring me a book." matlab "Mere liye ek kitab lao." |
+| Young                 | Jawaan, Chota                     | Kam umar. Misal: "A young child" matlab "Aik chota bacha." |
+| Tried                 | Koshish Ki                         | Kaam karne ki koshish karna. Misal: "I tried to run." matlab "Maine bhagne ki koshish ki." |
+| Pour                  | Daalna, Umnadna                   | Kisi cheez ko girana. Misal: "Pour the water into the glass." matlab "Pani ko glass mein daalo." |
+| Pitcher               | Ghada, Matka                      | Pani rakhne ka bartan. Misal: "The pitcher is full." matlab "Ghada bhara hua hai." |
+| Empty                 | Khali                             | Kuch bhi nahi. Misal: "The glass is empty." matlab "Glass khali hai." |
+| Went                  | Gaya                             | Jana. Misal: "I went to the park." matlab "Main park gaya tha." |
+| Nearby                | Nazdeeki, Qareeb                   | Paas ka. Misal: "A nearby shop" matlab "Aik nazdeeki dukaan." |
+| Canal                 | Nehar                             | Pani ka rasta. Misal: "The canal is long." matlab "Nehar lambi hai." |
+| Fetch                 | Lana, Hasil Karna                   | Koi cheez lene jana. Misal: "Fetch me my bag." matlab "Mera bag lao." |
+| Returned              | Wapas Aaya                        | Lautna. Misal: "I returned home." matlab "Main ghar wapas aa gaya." |
+| Asleep                | So Raha Tha, Soya Hua Tha          | Sona. Misal: "The baby is asleep." matlab "Bacha so raha hai." |
+| Patiently             | Sabar Se, Dhairya Se               | Aram se, bina jaldi ke. Misal: "I waited patiently." matlab "Maine sabar se intezaar kiya." |
+| Waited                | Intezaar Kiya                      | Kisi ka intzaar karna. Misal: "I waited for the bus." matlab "Maine bus ka intezaar kiya." |
+| Woke Up               | Uth Gaya, Jaag Gaya                | Neend se uthna. Misal: "I woke up early." matlab "Main subah jaldi uth gaya." |
+| Prayed                | Dua Ki                            | Allah se mangna. Misal: "I prayed for you." matlab "Maine tumhare liye dua ki." |
+| Kindness              | Mehrbani, Shafqat                  | Achcha sulook. Misal: "Thank you for your kindness." matlab "Aapki mehrbani ka shukriya." |
+| Great                 | Azeem, Bada                       | Bohut bada. Misal: "A great man." matlab "Aik azeem aadmi." |
+| Saint                 | Buzurg, Wali                      | Nek insan. Misal: "A holy saint." matlab "Aik pak wali." |
+| Known As              | Ke Naam Se Jana Jata Hai           | Mashhoor. Misal: "He is known as Ali." matlab "Woh Ali ke naam se jana jata hai." |
+
