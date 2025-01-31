@@ -221,3 +221,38 @@
 | I stand there for a while. | Main wahan kuch der ke liye khara/khari rehta/rehti hun. | I stand there for a bit. | Main wahan thodi der ke liye khara/khari rehta/rehti hun. | (For a while matlab thodi der ke liye. Misal: "Main yahan thodi der ke liye hun." - I am here for a while.) |
 | My teacher’s tall and kind of loud. | Mere teacher lambay aur thode se tez awaz wale hain. | My teacher is tall and a bit loud. | Mere teacher lambay aur thode se unchi awaz wale hain. | (Tall matlab lamba. Loud matlab unchi awaz. Misal: "Mera dost lamba hai." - My friend is tall. "Woh zor se baat karta hai." - He speaks loudly.) |
 | But has a great big smile. | Lekin unke chehray per bohat bari muskurahat hai. | But they have a big smile. | Lekin unke chehray per bari muskurahat hai. | (Smile matlab muskurahat. Misal: "Woh hamesha muskurati rehti hain." - She always smiles.) |
+---
+# chapter 9 
+
+
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** | 
+|---|---|---|---|---|
+| A long time ago | Bohut puranay zamany mein | Long ago | Bohut pehlay | (Purani kahani shuru karne ka tareeqa. Misal: "Bohut pehlay, aik raja rehta tha.") |
+| a small boy | aik chota larka | a little boy | aik chota larka | (Aik kam umar larka. Misal: "Woh aik chota larka hai.") |
+| lived with his mother | apni ammi ke saath rehta tha | lived with his mom | apni ammi ke saath rehta tha | (Apni walida ke saath rehna. Misal: "Woh apne parents ke saath rehta hai.") |
+| loved his mother very much | apni ammi se bohat pyar karta tha | loved his mom a lot | apni ammi se bohat pyar karta tha | (Ammi se gehri mohabbat. Misal: "Main apni ammi se bohat pyar karta hun.") |
+| became very ill | bohat bimar ho gayi | got very sick | bohat bimar ho gayi | (Tabiyat kharab hona. Misal: "Mera dost bimar ho gaya hai.") |
+| had to stay in bed | bistar par rehna pada | had to stay in bed | bistar par rehna pada | (Bimari ki wajah se bistar se na uthna. Misal: "Mujhe kal school nahi jana tha, kyunkay main bimar tha aur mujhe bistar par rehna pada.") |
+| called out to her son | apne bete ko pukara | called her son | apne bete ko pukara | (Awaz dena. Misal: "Ammi ne mujhe khane ke liye pukara.") |
+| bring her some water | uske liye thoda pani lao | get her some water | uske liye thoda pani lao | (Pani lane ke liye kehna. Misal: "Mujhe pyaas lagi hai, thoda pani lao.") |
+| tried to pour water | pani dalne ki koshish ki | tried to pour water | pani dalne ki koshish ki | (Pani nikalne ki koshish karna. Misal: "Maine glass mein juice dalne ki koshish ki.") |
+| from the pitcher | ghade se | from the jug | ghade se | (Pani ka ghada. Misal: "Ghade mein thanda pani hai.") |
+| it was empty | woh khali tha | it was empty | woh khali tha | (Kuch bhi nahi hona. Misal: "Glass khali hai.") |
+| went to a nearby canal | nazdeeki nahar mein gaya | went to a nearby canal | nazdeeki nahar mein gaya | (Paani lene ke liye nahar par jana. Misal: "Hum nahar mein nahane gaye.") |
+| to fetch water | pani lane ke liye | to get water | pani lane ke liye | (Paani hasil karna. Misal: "Main pani lene ja raha hun.") |
+| when he returned | jab woh wapas aaya | when he came back | jab woh wapas aaya | (Wapas aana. Misal: "Main school se wapas aa gaya hun.") |
+| was asleep | so rahi thi | was sleeping | so rahi thi | (Sona. Misal: "Bacha so raha hai.") |
+| didn't know what to do | nahi pata tha kya kare | didn't know what to do | nahi pata tha kya kare | (Pareshan hona, samajh na aana. Misal: "Mujhe sawal ka jawab nahi pata tha.") |
+| patiently waited | sabar se intezaar kiya | waited patiently | sabar se intezaar kiya | (Aaram se intezaar karna. Misal: "Maine bus ka intezaar kiya.") |
+| the whole night | puri raat | all night | puri raat | (Saari raat. Misal: "Main puri raat so nahi saka.") |
+| by his mother’s side | apni ammi ke paas | next to his mom | apni ammi ke paas | (Ammi ke nazdeek. Misal: "Main ammi ke paas baitha hun.") |
+| woke up | uth gayi | woke up | uth gayi | (Neend se jagna. Misal: "Main subah jaldi uth gaya.") |
+| how long have you been standing here | tum yahan kab se khade ho | how long have you been here | tum yahan kab se khade ho | (Kitni der se khade ho? Misal: "Tum yahan kab se mera intezaar kar rahe ho?") |
+| haven't been here all night, have you? | tum puri raat yahan nahi the, na? | you weren't here all night, were you? | tum puri raat yahan nahi the, na? | (Sawalia jumla, confirm karne ke liye. Misal: "Tum school nahi gaye the, na?") |
+| I have been here since you asked me for water | main yahan tab se hun jab se tumne mujhe pani ke liye kaha tha | I've been here since you asked for water | main yahan tab se hun jab se tumne mujhe pani ke liye kaha tha | (Jab se kaha tha tab se yahan hun. Misal: "Main yahan subah se hun.") |
+| prayed for him | uske liye dua ki | prayed for him | uske liye dua ki | (Dua karna. Misal: "Ammi ne mere liye dua ki.") |
+| touched by his kindness | uski mehrbani se mutasir hui | touched by his kindness | uski mehrbani se mutasir hui | (Achche kaam se khush hona. Misal: "Main tumhari madad se bohat mutasir hua.") |
+| later became | baad mein bana | later became | baad mein bana | (Baad mein woh yeh ban gaya. Misal: "Woh bada hokar doctor bana.") |
+| a great saint | aik buzurg | a great saint | aik buzurg | (Bohat nek insan. Misal: "Hazrat Ali aik buzurg the.") |
+| known as | ke naam se jana jata tha | known as | ke naam se jana jata tha | (Is naam se mashhoor. Misal: "Woh Bayazid Bastami ke naam se jane jate the.") |
