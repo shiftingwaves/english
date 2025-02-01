@@ -323,3 +323,54 @@ Here's the table you provided, displayed in a neat format:
 | Saint                 | Buzurg, Wali                      | Nek insan. Misal: "A holy saint." matlab "Aik pak wali." |
 | Known As              | Ke Naam Se Jana Jata Hai           | Mashhoor. Misal: "He is known as Ali." matlab "Woh Ali ke naam se jana jata hai." |
 
+---
+# chapter 10 
+
+
+| **English Word** | **Roman Urdu Meaning** | **Explanation Roman Urdu** |
+|---|---|---|
+| Thirsty | Pyaasa | Jab aapko paani peenay ki zaroorat hoti hai. |
+| Ant | Chheenti | Ek chhota sa keeda jo zameen par chalta hai. |
+| Summer | Garmi | Mausam jab bahut garmi hoti hai. |
+| Searched | Dhunda | Kisi cheez ko khojne ki koshish karna. |
+| Finally | Aakhirkaar | Sab se last mein, ya intezaar ke baad. |
+| Reached | Pahuncha | Kisi jagah par jaana. |
+| River | Darya | Paani ka bada sa nala. |
+| Climbed | Chadha | Upar ki taraf jaana. |
+| Stone | Patthar | Sakht cheez jo zameen par hoti hai. |
+| Slipped | Phisal Gaya | Paon fisal jaane se girne lagna. |
+| Fell | Gira | Neeche aana, ya zameen par girna. |
+| Into | Mein | Andar. |
+| Dove | Kabootar | Ek parinda. |
+| Sitting | Baitha Hua | Kursi ya zameen par baithna. |
+| Nearby | Paas | Qareeb mein. |
+| Falling | Gir Raha | Neeche aa raha hai. |
+| Quickly | Jaldi | Bohat tezi se. |
+| Plucked | Toda | Phool ya phal ko todna. |
+| Leaf | Patta | Ped ka hissa. |
+| Dropped | Giraya | Neeche phenkna. |
+| Soon | Jald | Thode hi der mein. |
+| Moved | Hila | Ek jagah se dusri jagah jaana. |
+| Slowly | Dheere Se | Aahista se. |
+| Bank | Kinara | Darya ka kinara. |
+| Jumped | Kooda | Uchalna. |
+| Dry | Sukha | Geela na hona. |
+| Ground | Zameen | Farsh. |
+| Thanked | Shukriya Kiya | Kisi ka ehsaan manna. |
+| Became | Ban Gaya | Ho Gaya. |
+| Next | Agla | Baad wala. |
+| Bird Catcher | Chidiya Pakadne Wala | Woh jo chidiyon ko pakadta hai. |
+| Came | Aaya | Aana. |
+| Planned | Socha | Mansooba banana. |
+| Trap | Jaal | Chidiya pakadne ka jaal. |
+| Net | Jaal | Machli ya chidiya pakadne ka jaal. |
+| Thought | Socha | Khayal aaya. |
+| Could | Sakta Tha | Kar sakta tha. |
+| Help | Madad | Sahayata karna. |
+| Bit | Kata | Daant se kaatna. |
+| Foot | Paon | Tang. |
+| Screamed | Cheekha | Zor se awaz nikali. |
+| Pain | Dard | Takleef. |
+| Flew | Uda | Udna. |
+| Saving | Bacha Raha | Mehfooz rakh raha hai. |
+| Life | Zindagi | Jeevan. |
