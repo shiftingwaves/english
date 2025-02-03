@@ -256,3 +256,30 @@
 | later became | baad mein bana | later became | baad mein bana | (Baad mein woh yeh ban gaya. Misal: "Woh bada hokar doctor bana.") |
 | a great saint | aik buzurg | a great saint | aik buzurg | (Bohat nek insan. Misal: "Hazrat Ali aik buzurg the.") |
 | known as | ke naam se jana jata tha | known as | ke naam se jana jata tha | (Is naam se mashhoor. Misal: "Woh Bayazid Bastami ke naam se jane jate the.") |
+---
+
+# chapter 12
+
+
+
+| **English Phrase (From Text)** | **Roman Urdu Translation (Original)** | **Simplified English Phrase** | **Roman Urdu Translation (Simplified)** | **Roman Urdu Explanation/Example** | 
+|---|---|---|---|---|
+| Here we go | Lo hum chalay | Let's go | Chalo chaltay hain | (Kahin janay kay liye istemal hota hai. Misal: "Lo hum chalay school!") |
+| Round the year again | Saal phir ghoom raha hai | All year again | Sara saal phir | (Saal kay dauran waqt ka batana. Misal: "Hum sara saal phir school jatay hain.") |
+| To greet the different seasons | Mukhtalif mausamon ka swagat karna | To say hello to seasons | Mausamon ko salam karna | (Mausamon kay aanay per khushi ka izhar karna. Misal: "Hum mausamon ko salam kartay hain.") |
+| Winter time | Sardi ka mausam | Winter | Sardi | (Thand ka mausam. Misal: "Sardi mein hum garam kapray pehantay hain.") |
+| Time for snow | Barf ka waqt | Time for snow | Barf ka waqt | (Barf bari ka waqt. Misal: "Sardi mein barf ka waqt hota hai.") |
+| It's too cold | Bahut ziyada thand hai | It's very cold | Bahut thand hai | (Zyada thand lagna. Misal: "Aaj bahut thand hai.") |
+| For plants to grow | Podon kay barhnay kay liye | For plants to grow | Podon ka barhna | (Podon kay lamba honay kay liye. Misal: "Podon ko pani chahiye barhnay kay liye.") |
+| In the spring time | Bahar kay mausam mein | In spring | Bahar mein | (Phoolon ka mausam. Misal: "Bahar mein phool khiltay hain.") |
+| Days get warm | Din garam ho jatay hain | Days get warm | Din garam hotay hain | (Mausam ka garam hona. Misal: "Bahar mein din garam hotay hain.") |
+| On the plants | Podon per | On the plants | Podon per | (Podon kay upar. Misal: "Phool podon per lagay hotay hain.") |
+| The new buds form | Nayi konpalain banti hain | New buds grow | Nayi konpalain ugti hain | (Naye phool aur pattay nikalna. Misal: "Bahar mein nayi konpalain ugti hain.") |
+| In summer time | Garmi kay mausam mein | In summer | Garmi mein | (Garmi ka mausam. Misal: "Garmi mein hum ice cream khatay hain.") |
+| The days are hot | Din garam hotay hain | The days are hot | Din garam hain | (Garmi kay din. Misal: "Garmi mein din garam hotay hain.") |
+| Ice-cold drinks | Barf wali thandi cheezain | Cold drinks | Thandi cheezain | (Thandi peenay ki cheezain. Misal: "Garmi mein hum thandi cheezain peetay hain.") |
+| I drink a lot | Main bahut peeta hun | I drink a lot | Main bahut peeta hun | (Zyada pani ya juice peena. Misal: "Main garmi mein bahut pani peeta hun.") |
+| Autumn is here | Khizan aa gayi hai | Autumn is here | Khizan aa gayi hai | (Patjhar ka mausam aa gaya hai. Misal: "Khizan mein pattay gir jatay hain.") |
+| The air is cool | Hawa thandi hai | The air is cool | Hawa thandi hai | (Thandi hawa chalna. Misal: "Khizan mein hawa thandi hoti hai.") |
+| Days are short | Din chotay hotay hain | Days are short | Din chotay hotay hain | (Kam roshni wala din. Misal: "Khizan mein din chotay hotay hain.") |
+| It's back to school | School phir shuru ho gaya hai | School starts again | School phir shuru hota hai | (School ka dobara khulna. Misal: "Khizan mein school phir shuru hota hai.") |
