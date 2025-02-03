@@ -374,3 +374,32 @@ Here's the table you provided, displayed in a neat format:
 | Flew | Uda | Udna. |
 | Saving | Bacha Raha | Mehfooz rakh raha hai. |
 | Life | Zindagi | Jeevan. |
+
+---
+
+# chapter 12
+
+
+
+| **English Word**      | **Roman Urdu Meaning**           | **Explanation Roman Urdu**                        |
+|-----------------------|-----------------------------------|-----------------------------------------------------|
+| Greet                 | Salam karna                      | Jab hum kisi ko milte hain toh "hello" kehte hain.  |
+| Seasons               | Mousam                           | Chaar alag mousam: sardi, bahaar, garmi, khizan.    |
+| Winter                | Sardi                            | Thand ka mousam, baraf parti hai.                   |
+| Snow                  | Baraf                            | Safed phool jaisi thandak jo sardi mein girti hai.  |
+| Cold                  | Thand                            | Kam hararat ka ehsaas, jaise sardi ka mousam.       |
+| Plants                | Poday                            | Zameen se ugne wali hari cheezen (phool, darakht).  |
+| Grow                  | Ugna                             | Poday ka bara hona ya ziyada lamba hona.            |
+| Spring                | Bahaar                           | Garmi aur sardi ke darmiyan ka mousam, phool khilte hain. |
+| Warm                  | Garam                            | Naram hararat, thand se ziyada aur garmi se kam.    |
+| Buds                  | Kaliyan                          | Phool banne se pehle ki choti kaliyan.              |
+| Form                  | Ban-na                           | Kisi cheez ka shuru mein banana (jaise kaliyan).    |
+| Summer                | Garmi                            | Sabse garm mousam, dhoop ziyada hoti hai.           |
+| Hot                   | Garam                            | Ziyada hararat ka ehsaas (jaise garmi ke din).      |
+| Ice-cold              | Baraf jaisa thanda               | Bohat thanda, jaise baraf wala pani.                |
+| Drinks                | Peyne ki cheezen                 | Paani, juice waghera jo hum peete hain.             |
+| Autumn                | Khizan                           | Patjhad ka mousam, patte girte hain.                |
+| Cool                  | Thandak                          | Halki thandak, na garm na bohat thanda.             |
+| Short                 | Chhota                           | Kam waqt (jaise khizan ke din chhote hote hain).    |
+| School                | School                           | Woh jagah jahan bachhe padhne jaate hain.           |
+
