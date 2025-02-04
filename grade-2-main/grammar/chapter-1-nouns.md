@@ -200,3 +200,94 @@ Words - Opposites
 ## YouTube Link:
 
 https://youtu.be/0swNkwWv9Rg?si=rYeiaiKB-PsbdrR2
+
+---
+
+---
+
+# Singular Aur Plural Nouns: Aik Tafseeli Jaiza
+
+## Singular Nouns (Ism-e-Wahid)
+
+*   **Tareef:** Singular noun aik shakhs, janwar, jagah ya cheez ko refer karta hai. Yani, yeh sirf aik wahid cheez ki nishandahi karta hai.
+*   **Misalein:**
+    *   Aik pencil: "Pencil" singular noun hai kyunke yeh sirf aik cheez ko refer kar raha hai.
+    *   Aik car: "Car" singular noun hai kyunke yeh sirf aik car ko refer kar raha hai.
+    *   Aik girl: "Girl" singular noun hai kyunke yeh sirf aik girl ko refer kar raha hai.
+    *   Aik cow: "Cow" singular noun hai.
+
+## Plural Nouns (Ism-e-Jama)
+
+*   **Tareef:** Plural noun aik se zyada shakhs, janwar, jagah ya cheez ko refer karta hai. Yani, yeh aik se zyada ashya ya afrad ki nishandahi karta hai.
+*   **Misalein:**
+    *   Teen pencils: Yahan "pencil" ke saath "S" add kiya gaya hai kyunke aik se zyada pencils hain.
+    *   Do cars: Yahan bhi "car" ke saath "S" add kiya gaya hai, jo batata hai ke aik se zyada car hain.
+    *   Do girls: "Girl" ke saath "S" laga diya gaya hai, jo plural noun ban jata hai.
+    *   Chaar cows: Yahan bhi "cow" ke saath "S" add kiya gaya hai.
+
+## Plural Nouns Banane ka Tareeqa: "s" ka Izafa
+
+*   Aksar nouns singular se plural mein change hote hain sirf "S" add karne se.
+*   **Misalein:**
+    *   Aik ball: Singular noun.
+    *   Chaar balls: "Ball" mein "S" add kiya, plural ban gaya.
+    *   Aik doll: Singular noun.
+    *   Do dolls: "Doll" mein "S" add kiya, plural ban gaya.
+
+## Nouns mein "es" ka Izafa
+
+*   Kuch singular nouns aise hote hain jin mein sirf "S" add karke plural nahi bana sakte, un mein "ES" add karna padta hai.
+*   **Qawaid:**
+    *   Nouns jo "s," "ss," "sh," "ch," "x," aur "o" se end hote hain: In nouns mein "ES" add hota hai.
+*   **Misalein:**
+    *   Aik bus: "Bus" "S" se end ho raha hai, isliye "ES" add karenge. Do buses.
+    *   Aik dress: "Dress" "SS" se end ho raha hai, isliye "ES" add karenge. Teen dresses.
+    *   Aik brush: "Brush" "SH" se end ho raha hai, isliye "ES" add karenge. Chaar brushes.
+    *   Aik watch: "Watch" "CH" se end ho raha hai, isliye "ES" add karenge. Do watches.
+    *   Aik box: "Box" "X" se end ho raha hai, isliye "ES" add karenge. Teen boxes.
+    *   Aik mango: "Mango" "O" se end ho raha hai, isliye "ES" add karenge. Kai mangoes.
+
+## Spelling Changes ke Saath Plural Forms Wale Nouns
+
+*   Kuch nouns aise hote hain jin mein "S" ya "ES" add nahi hota, unki spelling change ho jati hai.
+*   **Misalein:**
+    *   Aik man: Singular. Do men: Plural (spelling change).
+    *   Aik woman: Singular. Teen women: Plural (spelling change).
+    *   Aik foot: Singular. Do feet: Plural (spelling change).
+    *   Aik tooth: Singular. Kai teeth: Plural (spelling change).
+    *   Aik child: Singular. Teen children: Plural (spelling change).
+    *   Aik mouse: Singular. Do mice: Plural (spelling change).
+
+## Mazeed Misalein aur Practice
+
+*   **Pencils:** "Pencils" plural hai kyunke "pencil" ke saath "s" add hua hai. (P)
+*   **Notebook:** "Notebook" singular hai kyunke iske saath "s" add nahi hai aur iske aage "a" likha hua hai, "a notebook" ka matlab hai ek notebook. (S)
+*   **Hat:** "Hat" singular hai kyunke iske aage "a" laga hua hai, yani ek hat. (S)
+*   **Tooth:** "Tooth" ka matlab hai ek daant, isliye yeh singular hai. "Tooth" ka plural "teeth" hai. (S)
+*   **Buses:** "Buses" plural hai kyunke is mein "es" add hua hai. (P)
+
+## Singular se Plural Banane ki Practice
+
+*   **Monkey:** Monkey ka plural "monkeys" hoga, sirf "s" add karein.
+*   **Tree:** Tree ka plural "trees" hoga, sirf "s" add karein.
+*   **Dish:** Dish word "sh" se end ho raha hai, isliye "es" add karein. Plural "dishes" hoga.
+*   **Potato:** Potato word "o" se end ho raha hai, isliye "es" add karein. Plural "potatoes" hoga.
+*   **Shop:** Shop ka plural "shops" hoga, sirf "s" add karein.
+*   **Tomato:** Tomato word "o" se end ho raha hai, isliye "es" add karein. Plural "tomatoes" hoga.
+*   **Basket:** Basket ka plural "baskets" hoga, sirf "s" add karein.
+*   **Vegetable:** Vegetable ka plural "vegetables" hoga, sirf "s" add karein.
+
+## Tasweeron ke Mutabiq Nouns Likhna
+
+*   **Torch:** Ek torch hai, toh "one torch" likhenge.
+*   **Torches:** Teen torches hain, toh "three torches" likhenge. "Torch" word "ch" se end hota hai, isliye "es" add karein. Plural "torches" hoga.
+*   **Brush:** Ek brush hai, toh "one brush" likhenge.
+*   **Brushes:** Paanch brushes hain, toh "five brushes" likhenge. "Brush" word "sh" se end hota hai, isliye "es" add karein. Plural "brushes" hoga.
+*   **Candle:** Ek candle hai, toh "one candle" likhenge.
+*   **Candles:** Chhey candles hain, toh "six candles" likhenge. "Candle" ke saath "s" laga dein, plural "candles" ban jayega.
+*   **Glass:** Ek glass hai, toh "one glass" likhenge.
+*   **Glasses:** Teen glass hain, toh "three glasses" likhenge. "Glass" word "ss" se end hota hai, isliye "es" add karein. Plural "glasses" hoga.
+
+## YouTube Link
+
+https://youtu.be/Dh4v2-3uaL8?si=wr1Fvbqk8yjF-UA0
