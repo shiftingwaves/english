@@ -55,7 +55,7 @@ balance     | tawazun barqarar rakhna, santulan rakhna, barabar karna | balanced
 Verb        | Meaning                                      | 2nd Form   | 2nd Meaning   | 3rd Form   | 3rd Meaning  
 ------------|---------------------------------------------|------------|--------------|------------|--------------
 ache        | dard hona, takleef hona, chubhna           | ached      | dard hua     | ached      | dard hua
-acknokge    | tasleem karna, maan lena, shukria ada karna | acknowledged | tasleem kiya | acknowledged | tasleem kiya
+acknowledge    | tasleem karna, maan lena, shukria ada karna | acknowledged | tasleem kiya | acknowledged | tasleem kiya
 admonish    | samjhna, malamat karna, dantna            | admonished | samjhaya     | admonished | samjhaya
 affirm      | tasdeeq karna, maan lena, ikraar karna    | affirmed   | tasdeeq kiya | affirmed   | tasdeeq kiya
 ail         | bimar hona, takleef dena, dard hona       | ailed      | bimar hua    | ailed      | bimar hua
@@ -72,5 +72,4 @@ assert      | daawa karna, zordena, wazahat karna     | asserted   | daawa kiya 
 assure      | yakeen dilaana, tasalli dena, daawa karna | assured  | yakeen dilaya| assured    | yakeen dilaya
 auction     | neelami karna, boli lagana, farokht karna | auctioned | neelami ki  | auctioned  | neelami ki
 avow        | iqrar karna, maan lena, tasdeeq karna  | avowed     | iqrar kiya   | avowed     | iqrar kiya
-
 
