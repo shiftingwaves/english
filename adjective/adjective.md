@@ -101,5 +101,30 @@
 | Windy          | Tez Hawa |
 | Wrong          | Ghalat |
 | Young          | Naujawan |
+---
+
+### difficult adjective
+
+| English Adjective | Roman Urdu Meaning |
+|------------------|-------------------|
+| Alive           | Zinda |
+| Anxious        | Pareshan |
+| Bitter         | Karwa |
+| Cool           | Thanda, Sukoon Bakhsh, Taskeen Deh |
+| Disgusting     | Ghinona |
+| Dissatisfied   | Na Khush |
+| Early          | Jaldi, Pehlay, Subha Subha |
+| Embarrassed    | Sharminda |
+| Far            | Door, Bohat Door, Faaslay Par |
+| Lively         | Zinda Dil |
+| Loud           | Tez |
+| Mean           | Khudgarz |
+| Quiet          | Khamosh |
+| Relaxing       | Aaram Deh |
+| Salty          | Namkeen |
+| Scary          | Darna |
+| Sour           | Khata |
+| Sure           | Yaqeeni |
+
 
 link: https://www.youtube.com/watch?v=5yRleV_-i2U
