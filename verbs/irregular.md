@@ -63,4 +63,4 @@ Irregular Verbs in English
 
 
 
-![Irregular Verbs Mind Map](https://github.com/shiftingwaves/english/blob/main/verbs/irregular-verb.png)
+
