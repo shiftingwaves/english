@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     A[Irregular Verbs in English] --> B{Group 1: No Change};
     A --> C{Group 2: Various Changes};
@@ -8,7 +7,7 @@ graph TD
 
     C --> C1{D/T Changes}; C --> C2{GHT Changes}; C --> C3{T Changes};
 
-    C1 --> C11[say/said]; C1 --> C12[stand/stood]; C1 --> C13[pay/paid]; C1 --> C14[read/read (pronunciation)];
+    C1 --> C11[say/said]; C1 --> C12[stand/stood]; C1 --> C13[pay/paid]; C1 --> C14[read/read \(pronunciation\)];
     C1 --> C15[hold/held]; C1 --> C16[hear/heard]; C1 --> C17[make/made]; C1 --> C18[have/had]; C1 --> C19[tell/told]; C1 --> C1A[sell/sold];
 
     C2 --> C21[teach/taught]; C2 --> C22[buy/bought]; C2 --> C23[think/thought]; C2 --> C24[catch/caught];
@@ -27,8 +26,3 @@ graph TD
     D3 --> D31[show/showed/shown];
 
     D4 --> D41[begin/began/begun]; D4 --> D42[ring/rang/rung]; D4 --> D43[drink/drank/drunk]; D4 --> D44[sing/sang/sung];
-
-
-
-
-```
